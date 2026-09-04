@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="5">Team 106<br>
+September, 04, 2026<br>
+Fall 2026 <br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Zane Reynolds<br>
   
 
 </center>
@@ -26,7 +26,6 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Joseph Rivera                | [josephriv28.github.io](https://josephriv28.github.io/josephriv28_EGR304_F26.github.io/) |
 | Name #2                | link |
 | Name #3                | link |
-| Name #4                | link |
