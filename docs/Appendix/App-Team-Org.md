@@ -7,7 +7,13 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+After thoughtful discussion among the team, there were many goals that each member had wanted to accomplish. Out of these various goals, there were five in common that plan to reflect the upcoming product's success for EGR304:
+1.
+2.
+3.
+4. 
+5. 
+
 
 ## Communication Channels
 
@@ -15,7 +21,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Joseph Rivera | Discord | Messanger | Email |
+|Joseph Rivera | Discord | Messenger | Email |
 |Damio Garcia |  ? | ? | ? |
 |Malik Johnson |  ? | ? | ? |
 
@@ -83,7 +89,7 @@ Need to add content!!
 
 ## Signatures
 
-Joseph Rivera 106
-Damio Garcia 106
-Malik Johnson 106
+Joseph Rivera - 106,
+Damio Garcia - 106,
+Malik Johnson - 106,
 
