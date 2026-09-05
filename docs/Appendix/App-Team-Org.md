@@ -81,7 +81,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
-| Name   | Abbreviation                      |
+| Name   | Role                              |
 | -----  | :-------------------------------: |
 | Joseph | Meeting Leader, Assignment Leader |
 | Damio  | Meeting Recorder                  |
