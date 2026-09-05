@@ -81,6 +81,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+Through the duration of the project, there are four roles that must be taken upon three members. In order to split the work evenly, one member will have the roles of both meeting leader and assignment leader, as the two roles prioritize in coordination and assigning different responsibilities. This also prevents a member from having to take two roles that cause excessive workload when combined (i.e. - Meeting recorder and assignment leader at the same time).
+
 ## Conflict Recognition & Resolution
 
 For a team to be successful, ideas should not have to come from one person. It's important for a team to become a melting pot of its members and incorporate ideas from all angles. This means whenever a team member disagrees with an idea or certain direction, everyone will come together to brainstorm a new plan that either incorporates each member's ideas, or to create a unique approach that was never thought of initially to solve the problem. In these discussions, there's zero tolerance for personal attacks and other behavior that will either hurt team morale, or jeopardize the progress of the project. Should these instances continue to harm the team, action must be taken to the instructor and evaluated for long-term consequences.
@@ -90,5 +92,5 @@ For a team to be successful, ideas should not have to come from one person. It's
 
 Joseph Rivera - 106,
 Damio Garcia - 106,
-Malik Johnson - 106,
+Malik Johnson - 106
 
