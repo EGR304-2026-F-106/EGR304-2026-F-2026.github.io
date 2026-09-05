@@ -7,7 +7,13 @@ tags:
 
 ## Team Goals
 
-After thoughtful discussion among the team, there were many goals that each member had wanted to accomplish. Out of these various goals, there were five in common that plan to reflect the upcoming product's success for EGR304:
+After thoughtful discussion among the team, there were many goals that each member had wanted to accomplish. Out of these various goals, there were five in common that plan to reflect the upcoming product's success, along with each member's journey to self-fulfilment as an engineer:
+
+1. Mastery in industry tools & engineering software (Solidworks, KiCAD, Visual Studio Code, etc.).
+2. Creating a product that stands as a strong piece of work for a professional engineering portfolio.
+3. Improve time management skills to prepare for strict deadlines in the engineering industry.
+4. Familiarity with hands-on work and applying the knowledge learned from both past and current engineering classes.
+5. Building a well-rounded sense of communication for group projects and applying it towards future professional settings such as job fairs, interviews, industry connections, and more.
 
 
 
@@ -39,7 +45,7 @@ _**Appendix Table 2**: Weekly Schedule_
 | 9:00 AM | J,D,M | J | - | J,M | - | J | J,D |
 | 10:00 AM | J,D,M | - | - | - | - | J | J,D |
 | 11:00 AM | J,D,M | - | - | - | - | J | J,D |
-| 12:00 PM | J,D,M | J,D | D | J,D | D | - | J,D |
+| 12:00 PM | J,D,M | J,D,M | D | J,D,M | D | - | J,D |
 | 1:00 PM | J,D,M | J | D | J | J, D | D | J,D |
 | 2:00 PM | J,D,M | J | D | J | J, D | D | J,D |
 | 3:00 PM | J,D,M | J | J | M | J | D | J,D |
@@ -61,10 +67,8 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+In order for us to remember meetings, we plan on using Discord's pinned messages to help us remember when meetings take place. In case of a last-second Sunday meeting cancellation, the team insists on moving the meeting to before, or after a class. The preferred format for meetings would be face-to-face, but could be virtual if it's an urgent meeting, or if it's in the group's best interest for the time. As long as the group has consistent communication among each other, there is no need for other procedures.
+
 
 ## Roles & Responsibilities
 
@@ -79,7 +83,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+For a team to be successful, ideas should not have to come from one person. 
 
 
 ## Signatures
