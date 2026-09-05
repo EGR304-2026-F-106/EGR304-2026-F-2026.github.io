@@ -18,17 +18,16 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Joseph Rivera | Discord | Messenger | Email |
-|Damio Garcia |  ? | ? | ? |
-|Malik Johnson |  ? | ? | ? |
+|Damio Garcia |  Discord | Messenger | Email |
+|Malik Johnson |  Discord | Messenger | Email |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is through Discord. If an urgent case were to arise, the group has agreed upon using Messenger as a secondary form of communication, then to Email if necessary. 
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+The team insists to communicate on a daily basis, whether that's from in-person class meetings, through Discord when the team does not meet up, or in weekly meetings. To prove that everything is communicated thoroughly, any important messages should be reacted and/or replied to, within a timely manner. Additionally, instructor correspondence will be handled by having the group leader communicate with the instructor, in the situation that the full group is unable to be present for any communication or feedback from the instructor. This will be communicated back to the group through Discord, or the chain of communication choices, if the message has not been reacted to, or acknowledged in any form. 
 
 ## Meeting Schedule
 
@@ -36,20 +35,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | J | J | - | J | - | J | J |
-| 9:00 AM | J | J | - | J | - | J | J |
-| 10:00 AM | J | - | - | - | - | J | J |
-| 11:00 AM | J | - | - | - | - | J | J |
-| 12:00 PM | J | J,D | D | J,D | D | - | J |
-| 1:00 PM | J | J | D | J | J, D | D | J |
-| 2:00 PM | J | J | D | J | J, D | D | J |
-| 3:00 PM | J | J | J | J | J | D | J |
-| 4:00 PM | J | D | J | D | J | D | J |
-| 5:00 PM | J | J,D | J,D | D | J,D | D | J |
-| 6:00 PM | J | J,D | J,D | D | J,D | D | J |
-| 7:00 PM | J | J | J | - | J | - | J |
-| 8:00 PM | J | - | J | - | J | J | J |
-| 9:00 PM | J | - | J | - | J | J | J |
+| 8:00 AM | J,D,M | J | - | J,M | - | J | J,D |
+| 9:00 AM | J,D,M | J | - | J,M | - | J | J,D |
+| 10:00 AM | J,D,M | - | - | - | - | J | J,D |
+| 11:00 AM | J,D,M | - | - | - | - | J | J,D |
+| 12:00 PM | J,D,M | J,D | D | J,D | D | - | J,D |
+| 1:00 PM | J,D,M | J | D | J | J, D | D | J,D |
+| 2:00 PM | J,D,M | J | D | J | J, D | D | J,D |
+| 3:00 PM | J,D,M | J | J | M | J | D | J,D |
+| 4:00 PM | J,D,M | D | J | D,M | J | D | J,D |
+| 5:00 PM | J,D,M | J,D | J,D | M | J,D | D | J,D |
+| 6:00 PM | J,D,M | J,D | J,D | M | J,D | D | J,D |
+| 7:00 PM | J,D,M | J | J | M | J | - | J,D |
+| 8:00 PM | J,D,M | - | J | M | J | J | J,D |
+| 9:00 PM | J,D,M | - | J | M | J | J | J,D |
 
 _**Table Legend for Appendix Table 2**_
 
