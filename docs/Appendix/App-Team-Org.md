@@ -8,11 +8,7 @@ tags:
 ## Team Goals
 
 After thoughtful discussion among the team, there were many goals that each member had wanted to accomplish. Out of these various goals, there were five in common that plan to reflect the upcoming product's success for EGR304:
-1.
-2.
-3.
-4. 
-5. 
+
 
 
 ## Communication Channels
@@ -40,20 +36,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | - | - | - | - | - | - |
-| 11:00 AM | - | - | - | - | - | - | - |
-| 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | - | - | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | - | - | - |
-| 3:00 PM | - | - | - | - | - | - | - |
-| 4:00 PM | - | - | - | - | - | - | - |
-| 5:00 PM | - | - | - | - | - | - | - |
-| 6:00 PM | - | - | - | - | - | - | - |
-| 7:00 PM | - | - | - | - | - | - | - |
-| 8:00 PM | - | - | - | - | - | - | - |
-| 9:00 PM | - | - | - | - | - | - | - |
+| 8:00 AM | J | J | - | J | - | J | J |
+| 9:00 AM | J | J | - | J | - | J | J |
+| 10:00 AM | J | - | - | - | - | J | J |
+| 11:00 AM | J | - | - | - | - | J | J |
+| 12:00 PM | J | J,D | D | J,D | D | - | J |
+| 1:00 PM | J | J | D | J | J, D | D | J |
+| 2:00 PM | J | J | D | J | J, D | D | J |
+| 3:00 PM | J | J | J | J | J | D | J |
+| 4:00 PM | J | D | J | D | J | D | J |
+| 5:00 PM | J | J,D | J,D | D | J,D | D | J |
+| 6:00 PM | J | J,D | J,D | D | J,D | D | J |
+| 7:00 PM | J | J | J | - | J | - | J |
+| 8:00 PM | J | - | J | - | J | J | J |
+| 9:00 PM | J | - | J | - | J | J | J |
 
 _**Table Legend for Appendix Table 2**_
 
