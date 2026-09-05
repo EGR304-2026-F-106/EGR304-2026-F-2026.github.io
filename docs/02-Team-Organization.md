@@ -11,4 +11,4 @@ Team 106 works for the collective academic & career betterment of its constituen
 
 ## Product Mission Statement
 
-Our product's purpose is to serve as a springboard for its members' future endeavors through its design, manufacture, and presentation, and to showcase every member's unique abilities to perform the skills needed to become a successful fit to any engineering team.
+The SenseSmith's purpose is to serve as a highly reliable pocket-sized air-quality monitor, which takes real-world signals, and conditions them through filtering, allowing it carry out its task through digital form. 
