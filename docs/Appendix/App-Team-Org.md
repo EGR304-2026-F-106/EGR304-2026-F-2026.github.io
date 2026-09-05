@@ -67,7 +67,7 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-In order for us to remember meetings, we plan on using Discord's pinned messages to help us remember when meetings take place. In case of a last-second Sunday meeting cancellation, the team insists on moving the meeting to before, or after a class. The preferred format for meetings would be face-to-face, but could be virtual if it's an urgent meeting, or if it's in the group's best interest for the time. As long as the group has consistent communication among each other, there is no need for other procedures.
+In order for us to remember meetings, we plan on using Discord's pinned messages to help us remember what time a Sunday meeting may occur. In case of a last-second Sunday meeting cancellation, the team insists on moving the meeting to before, or after a class. The preferred format for meetings would be face-to-face, but could be virtual if it's an urgent meeting, or if it's in the group's best interest for the time. As long as the group has consistent communication among each other, there is no need for other procedures.
 
 
 ## Roles & Responsibilities
@@ -84,7 +84,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 Through the duration of the project, there are four roles that must be taken upon three members. In order to split the work evenly, one member will have the roles of both meeting leader and assignment leader, as the two roles prioritize in coordination and assigning different responsibilities. This also prevents a member from having to take two roles that cause excessive workload when combined (i.e. - Meeting recorder and assignment leader at the same time). While roles will be rotated every couple of weeks to ensure all members contribute equally, the table below showcases each member and their initial roles from the start of the project. 
 
 
-_**Appendix Table 3**: Initial Project Roles and Duties_
+_**Appendix Table 3**: Initial Project Roles_
 
 | Name   | Abbreviation                      |
 | -----  | :-------------------------------: |
@@ -97,7 +97,9 @@ If there are any signs of inefficiency towards completing assignments, then the 
 
 ## Team Coordination & Accountability
 
-To ensure assignments are submitted before deadlines, the assignment leader will coordinate when each member should finish their part of an assignment. If a personal emergency were to occur (i.e. - sickness, family/friend emergency, funeral), there will be no penalty towards the member, as long as the situation is communicated to the team as soon as possible. While each member will be able to pace themselves to finish their part, all members will check in with each other to see if there is any additional support needed to finish each part. If a member has missed any contributions to a part they were assigned, they will be contacted by the assignment leader to see what changes are necessary to finish the assignment on time. The leader, or any other member that's available to help, will work with the person to finish their part, but if this pattern were to persist, then the member will be recognized by the leader as underperforming. Should this member continue to underperform and refuse to communicate with the team, a pink slip will be written to the instructor, changing the trajectory of the team's progress.
+To ensure assignments are submitted before deadlines, the assignment leader will coordinate when each member should finish their part of an assignment, while checking in by every member's designated "soft deadline" to see where they're at, taking place multiple hours before the true deadline. Additionally, the assignment leader will send any design review feedback to the rest of the team, to ensure everyone remains focused on their work.
+
+ If a personal emergency were to occur (i.e. - sickness, family/friend emergency, funeral), there will be no penalty towards the member, as long as the situation is communicated to the team as soon as possible. While each member will be able to pace themselves to finish their part, all members will check in with each other to see if there is any additional support needed to finish each part. If a member has missed any contributions to a part they were assigned, they will be contacted by the assignment leader to see what changes are necessary to finish the assignment on time. The leader, or any other member that's available to help, will work with the person to finish their part, but if this pattern were to persist, then the member will be recognized by the leader as underperforming. Should this member continue to underperform and refuse to communicate with the team, a pink slip will be written to the instructor, changing the trajectory of the team's progress.
 
 ## Conflict Recognition & Resolution
 
