@@ -81,13 +81,20 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
-Through the duration of the project, there are four roles that must be taken upon three members. In order to split the work evenly, one member will have the roles of both meeting leader and assignment leader, as the two roles prioritize in coordination and assigning different responsibilities. This also prevents a member from having to take two roles that cause excessive workload when combined (i.e. - Meeting recorder and assignment leader at the same time).
+Through the duration of the project, there are four roles that must be taken upon three members. In order to split the work evenly, one member will have the roles of both meeting leader and assignment leader, as the two roles prioritize in coordination and assigning different responsibilities. This also prevents a member from having to take two roles that cause excessive workload when combined (i.e. - Meeting recorder and assignment leader at the same time). While roles will be rotated every couple of weeks to ensure all members contribute equally, the table below showcases each member and their initial roles from the start of the project. 
+
+
+_**Appendix Table 3**: Initial Project Roles and Duties_
 
 | Name   | Abbreviation                      |
 | -----  | :-------------------------------: |
 | Joseph | Meeting Leader, Assignment Leader |
 | Damio  | Meeting Recorder                  |
 | Malik  | Project Monitor                   |
+
+## Team Coordination & Accountability
+
+To ensure assignments are submitted before deadlines, the assignment leader will coordinate when each member should finish their part of an assignment. If a personal emergency were to occur (i.e. - sickness, family/friend emergency, funeral), there will be no penalty towards the member, as long as the situation is communicated to the team as soon as possible. While each member will be able to pace themselves to finish their part, all members will check in with each other to see if there is any additional support needed to finish each part. If a member has missed any contributions to a part they were assigned, they will be contacted by the assignment leader to see what changes are necessary to finish the assignment on time. The leader, or any other member that's available to help, will work with the person to finish their part, but if this pattern were to persist, then the member will be recognized by the leader as underperforming. Should this member continue to underperform and refuse to communicate with the team, a pink slip will be written to the instructor, changing the trajectory of the team's progress.
 
 ## Conflict Recognition & Resolution
 
