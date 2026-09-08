@@ -11,4 +11,4 @@ Team 106 works for the collective academic & career betterment of its constituen
 
 ## Product Mission Statement
 
-The SenseSmith's purpose is to serve as a highly reliable pocket-sized air-quality monitor, which takes real-world signals, and conditions them through filtering, allowing it carry out its task through digital form. 
+The HeatSmith's purpose is to serve as a highly reliable heat monitor, taking external weather / temperature conditions, to help users stay safe from extreme heat or cold temperatures. 
