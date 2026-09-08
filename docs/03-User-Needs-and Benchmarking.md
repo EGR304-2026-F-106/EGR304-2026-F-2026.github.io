@@ -6,29 +6,31 @@ title: User Needs and Benchmarking
 
 ### Search #1
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "wearable stress heat monitor"
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
+**Search Results Link:** [https://www.walmart.com/search?q=heat+temperature+monitor+](https://www.walmart.com/search?q=heat+temperature+monitor+)
 
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 1. [Acurite White Digital Indoor Thermometer with Compact Display, Battery-Powered, (1 x 3.75 x 6.25)
+](https://www.walmart.com/ip/Acurite-White-Digital-Indoor-Thermometer-with-Compact-Display-Battery-Powered-1-x-3-75-x-6-25/188541548?wmlspartner=wlpa&selectedSellerId=0&wl13=4451&adid=22222222297188541548_0000000000_23887149012&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9030021&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=188541548&veh=sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23892387002&gbraid=0AAAAADmfBIolV0NebB8r2cq6lqzh_tPnE&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1OkoJIW1KGSAWNK8LYytqcK60AXEcWVwwuDKhvng_IlkwJdf7_QZIgaAhZDEALw_wcB)
 
 ![](image1.png)
 
 **(include a picture)**
 
-* Price: $65
+* Price: $9.97
 
-* Vendor: Amazon
+* Vendor: Walmart
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: The AcuRite Digital Compact Indoor Thermometer with High and Low Records provides accurate and convenient room temperature information. This white 1 inch thermometer includes an easy-to-read LCD display with daily high and low temperatures. The trend arrows are to indicate if room temperature readings are rising, falling, or staying constant. This room thermometer also lets you choose Fahrenheit and Celsius and has a low battery indicator for convenience. This compact thermometer is the perfect size to fit anywhere you need to monitor the temperature.
+
 
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
+| "This very small unit sits on a shelf ledge and assures me that I am meeting the state-standard 65 degree temperature reading in the house. Should my tenant complain, I can refer to state law as well as to this tiny gauge. The small size, with large, easily read numbers, makes for a fine product. I liked it so much that I bought a second one for the downstairs area of my home." | 1.  The thermometer is accurate and reliable with its readings (explicit)                              |
 |                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
 |                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
 
