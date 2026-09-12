@@ -39,6 +39,13 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2.  The user can read the monitor without having to approach it (latent) |
 |                                                                                                                                                                                        | 3.  The user can determine when the temperature is too high (explicit)                               |
 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I live in a very sm building (24' long) I have an oil heater. I put my heater at one end of the 24'. I put a box fan behind the heater, to blow heat down the length of building. I place the temperature gage at the heater, another one about halfway way and another at the other end of the 24 ' home. This helps me regulate my heater. I am 74 years old and I learned in my youth to keep temperature not much over 70 degrees. It keeps germs from growing. So far no colds and no pneumonia. I thank you very much for this temperature gage." | 1.  The thermometer should help the user regulate the heater (explicit)                              |
+|                                                                                                                                                                                        | 2.  The user wants to avoid overheating at home (latent) |
+|                                                                                                                                                                                        | 3.  The user should rely on the thermometer's accuracy, rather than how the room feels in temperature (latent)                               |
+|                                                                                                                                                                                        | 4.  The user needs to know if temperature is evenly distributed across their house (latent)                               |
+
 
 ##### Negative Comments
 
