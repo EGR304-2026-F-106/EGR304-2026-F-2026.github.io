@@ -70,9 +70,8 @@ title: User Needs and Benchmarking
 
 #### 2. Next Product goes here
 
-### Search #3
+### Search #2
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
 **Keywords:** "heat stress monitor weather"
 
@@ -103,7 +102,27 @@ title: User Needs and Benchmarking
 
 
 
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "XXXXXX" | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+
+
+
+
 #### 4. Next Product goes here
+
+### Search #3
+
+
+**Keywords:** "best home weather station"
+
+
+
+**Search Results Link:** [https://duckduckgo.com/?q=best+home+weathor+sensor&t=newext&atb=v461-1&ia=shopping&iax=shopping](https://duckduckgo.com/?q=best+home+weathor+sensor&t=newext&atb=v461-1&ia=shopping&iax=shopping)
 
 #### 5. Next Product goes here
 
