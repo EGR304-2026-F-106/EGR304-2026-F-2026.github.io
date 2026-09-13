@@ -56,8 +56,6 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 3.  Customer support needs to understand the difference between a failed product and a product that requires troubleshooting (explicit)                               |
 |                                                                                                                                                                                        | 4.  The user wants an honest product from the start (latent)                               |
 
-#### 2. Next Product goes here
-
 ### Search #2
 
 
