@@ -78,18 +78,12 @@ title: User Needs and Benchmarking
 
 **Search Results Link:** <add your link here>
 
-### Selected Products
 
-#### Search #3
 
-**Keywords:** "heat stress monitor"
+**Search Results Link:** [https://www.amazon.com/s?k=heat+stress+monitor&i=industrial&crid=3P5I5BYJMIWE0&sprefix=heat+stress+monitor%2Cindustrial%2C202&ref=nb_sb_noss_1](https://www.amazon.com/s?k=heat+stress+monitor&i=industrial&crid=3P5I5BYJMIWE0&sprefix=heat+stress+monitor%2Cindustrial%2C202&ref=nb_sb_noss_1)
 
-**Search Results Link:** [https://a.co/d/00an6OAi
-](https://a.co/d/00an6OAi)
 
-### Selected Products
-
-#### 3. [Acurite White Digital Indoor Thermometer with Compact Display, Battery-Powered, (1 x 3.75 x 6.25)](https://www.walmart.com/ip/Acurite-White-Digital-Indoor-Thermometer-with-Compact-Display-Battery-Powered-1-x-3-75-x-6-25/188541548?wmlspartner=wlpa&selectedSellerId=0&wl13=4451&adid=22222222297188541548_0000000000_23887149012&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9030021&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=188541548&veh=sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23892387002&gbraid=0AAAAADmfBIolV0NebB8r2cq6lqzh_tPnE&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1OkoJIW1KGSAWNK8LYytqcK60AXEcWVwwuDKhvng_IlkwJdf7_QZIgaAhZDEALw_wcB)
+#### 3. [BTMETER BT-881W Heat Stress Meter Anemometer, Digital Indoor/Outdoor WBGT (Wet Bulb Globe Temperature) Meter with Wind Speed, Ambient Temp, Humidity Tester](https://a.co/d/00an6OAi)
 
 ![](image1.png)
 
