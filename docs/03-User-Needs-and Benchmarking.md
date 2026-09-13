@@ -2,16 +2,25 @@
 title: User Needs and Benchmarking
 ---
 ## Voice of the Customer Benchmarking Example
+
 ### Search #1
+
 **Keywords:** "heat stress monitor"
+
 **Search Results Link:** [https://www.walmart.com/search?q=heat+temperature+monitor+](https://www.walmart.com/search?q=heat+temperature+monitor+)
 ### Selected Products
+
 #### 1. [Acurite White Digital Indoor Thermometer with Compact Display, Battery-Powered, (1 x 3.75 x 6.25)](https://www.walmart.com/ip/Acurite-White-Digital-Indoor-Thermometer-with-Compact-Display-Battery-Powered-1-x-3-75-x-6-25/188541548?wmlspartner=wlpa&selectedSellerId=0&wl13=4451&adid=22222222297188541548_0000000000_23887149012&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9030021&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=188541548&veh=sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23892387002&gbraid=0AAAAADmfBIolV0NebB8r2cq6lqzh_tPnE&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1OkoJIW1KGSAWNK8LYytqcK60AXEcWVwwuDKhvng_IlkwJdf7_QZIgaAhZDEALw_wcB)
+
 ![](image1.png)
+
 **(include a picture)**
+
 * Price: $9.97
 * Vendor: Walmart
+
 * Description: The AcuRite Digital Compact Indoor Thermometer with High and Low Records provides accurate and convenient room temperature information. This white 1 inch thermometer includes an easy-to-read LCD display with daily high and low temperatures. The trend arrows are to indicate if room temperature readings are rising, falling, or staying constant. This room thermometer also lets you choose Fahrenheit and Celsius and has a low battery indicator for convenience. This compact thermometer is the perfect size to fit anywhere you need to monitor the temperature.
+
 ##### Positive Comments
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -412,12 +421,18 @@ In other words, only the units are shown when on (m/sec, km/hr) but it does not 
 | "Nice looking, but the outdoor piece is VERY light weight, and I am not sure how well it will hold up. The rain gauge has yet to even be close to reading what we show in an old school glass tube rain gauge. The indoor unit frequently losses connection and just sits and blinks till you reconnect or power cycle, and the outdoor unit does not charge the batteries well at all. Update: Tried for several months trying to get any kind of support response from Vevor, no luck. The unit is utter garbage, unless all you want is an indoor unit. The out door unit is poorly made, The solar charging for the re-chargable batteries does not work! As soon as the batteries die, the outdoor unit quits communicating. Best to skip this unit, and go find a better quality unit that is backed by a vendor that will actually respond to tech support question. Very disappointed in Vevor with this. | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
+
+
 ## Organized Need Statements
+
 ### First Placement
+
 ### Grouped with categories
+
 ### Ranked
+
 ## Compiled list of user Needs
 1. The device will...
-1. The device is ...
-1. The device can ...
-100. The device is...
+2. The device is ...
+3. The device can ...
+4. The device is...
