@@ -70,17 +70,15 @@ title: User Needs and Benchmarking
 
 #### 2. Next Product goes here
 
-### Search #2
+### Search #3
 
 (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
 
-**Keywords:** <list an alternative search you did, if applicable>
-
-**Search Results Link:** <add your link here>
+**Keywords:** "heat stress monitor weather"
 
 
 
-**Search Results Link:** [https://www.amazon.com/s?k=heat+stress+monitor&i=industrial&crid=3P5I5BYJMIWE0&sprefix=heat+stress+monitor%2Cindustrial%2C202&ref=nb_sb_noss_1](https://www.amazon.com/s?k=heat+stress+monitor&i=industrial&crid=3P5I5BYJMIWE0&sprefix=heat+stress+monitor%2Cindustrial%2C202&ref=nb_sb_noss_1)
+**Search Results Link:** [https://www.amazon.com/s?k=heat+stress+monitor+weather&i=industrial&crid=3AKI1UVUHISHJ&sprefix=heat+stress+monitor+weathe%2Cindustrial%2C186&ref=nb_sb_noss_1](https://www.amazon.com/s?k=heat+stress+monitor+weather&i=industrial&crid=3AKI1UVUHISHJ&sprefix=heat+stress+monitor+weathe%2Cindustrial%2C186&ref=nb_sb_noss_1)
 
 
 #### 3. [BTMETER BT-881W Heat Stress Meter Anemometer, Digital Indoor/Outdoor WBGT (Wet Bulb Globe Temperature) Meter with Wind Speed, Ambient Temp, Humidity Tester](https://a.co/d/00an6OAi)
