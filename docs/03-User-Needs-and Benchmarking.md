@@ -97,66 +97,137 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 4. Latent: Product needs to have manual or automatic correction features. |
 | "Ordered this product December 31, 2025. As of September 5, 2026, the outside sending unit is not connecting with the inside unit. The inside unit is still giving the accurate information. Nine months is not satisfactory. " | 1.  Explicit: Product should last longer than nine months.                              |
 |                                                                                                                                                                                        | 2.  Latent: Sensors should have reliable connections with observation unit. |
+#### 2. Next Product goes here 
 
-### Selected Products
+ 
 
-#### 3. [Heat Stress Meter Anemometer AP-881W Outdoor Wet Bulb Globe Thermometer Digital Wind Speed Gauges for Wind Speed/Humidity/WBGT Alarm and Temperature (℃/℉) Humidity Tester for Outdoor Workers](https://a.co/d/03WsJ7ht)
+### Search #2 
 
-![](image1.png)
+ 
 
-**(include a picture)**
+ 
 
-* Price: $36.99
+**Keywords:** "heat stress monitor weather" 
 
-* Vendor: Amazon
+ 
 
-* Description:Wet Bulb Globe Thermometer Anemometer: Wind Speed Range0-30m/s, Resolution:0.1m/s. Temperature Range: 0-50/32-122(Accuracy:+/-0.6). Humidity range: 0.1%-99.9%RH; Resolution:0.1%RH. Measure wind speed in 5 units:m/s, km/h, Ft/min, Knots, Mph. Wind temp in /
-Heat Stress Meter Anemometer: AP-881W features a built-in wind speed detector and temperature/humidity sensor, capable of measuring wind speed, wind chill, and humidity with a humidity resolution of 0.1%RH. This portable WBGT heat stress monitor uses a four-color warning system to alert you to environmental temperatures, helping you avoid danger
-Big LCD Display: Come with a LCD Display to show Wind Speed, Wind Temperature, Humidity, and with the backlight function, you can get clearly readings even in the dark environment
-WBGT Detection Settings: Through WBGT alarm configuration alerts, it supports indoor/outdoor WBGT measurement modes. When the black globe temperature (TG) reaches 2050C, it triggers a WBGT alarm. Upon reaching preset alarm thresholds, the WBGT alarm emits a buzzer sound and the LCD backlight turns red
-Versatile Outdoor Applications: This handheld anemometer is suitable for various outdoor activities such as drone flying, hunting, sailing, HVAC vents monitoring, and shooting applications where wind speed and environmental conditions need to be measured accurately.
+ 
 
-##### Positive Comments
+ 
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  the user requires Good Build Quality (explicit)                              |
-|                                                                                                                                                                                        | 2.  the customer wants a range readings (implicit) |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Excellent quality - our athletic director loves it!" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Can’t beat it for the price" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
+**Search Results Link:** [https://a.co/d/03WsJ7ht](https://a.co/d/03WsJ7ht) 
 
-##### Negative Comments
+ 
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "This item worked great for about 3 days and then it shuts off randomly, won’t turn on when I hold the power button unless I keep pressing the button over and over and sometimes it will turn on, usually it doesn’t no matter how hard I try. I’ve changed batteries twice now to see if that would help as sometimes batteries go bad, but that didn’t help. I guess you get what you pay for. Which stinks, because I really need this product for my trainings to make sure I can keep my athletes safe" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Just stopped working after 1 year. We make sure to remove the batteries when not in use and it is stored in its case in a cabinet. When we opened it today, there was a little bit of moisture in it and now it doesn't work." | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "There is a delay when pushing the different buttons throughout the controls.
+### Selected Products 
 
-The most annoying thing is that when you push the “Wind” button to change the units for the wind meter, the units aren’t displayed for the (feet/min, knots, mph).
+ 
 
-In other words, only the units are shown when on (m/sec, km/hr) but it does not display the units for the rest. So you don’t have a good idea of which units you’re measuring in. The overall accuracy of the device is ok." | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
+#### 3. [Heat Stress Meter Anemometer AP-881W Outdoor Wet Bulb Globe Thermometer Digital Wind Speed Gauges for Wind Speed/Humidity/WBGT Alarm and Temperature (℃/℉) Humidity Tester for Outdoor Workers](https://a.co/d/03WsJ7ht) 
 
+ 
 
+![](image1.png) 
+
+ 
+
+**(include a picture)** 
+
+ 
+
+* Price: $36.99 
+
+ 
+
+* Vendor: Amazon 
+
+ 
+
+* Description:Wet Bulb Globe Thermometer Anemometer: Wind Speed Range0-30m/s, Resolution:0.1m/s. Temperature Range: 0-50/32-122(Accuracy:+/-0.6). Humidity range: 0.1%-99.9%RH; Resolution:0.1%RH. Measure wind speed in 5 units:m/s, km/h, Ft/min, Knots, Mph. Wind temp in / 
+
+Heat Stress Meter Anemometer: AP-881W features a built-in wind speed detector and temperature/humidity sensor, capable of measuring wind speed, wind chill, and humidity with a humidity resolution of 0.1%RH. This portable WBGT heat stress monitor uses a four-color warning system to alert you to environmental temperatures, helping you avoid danger 
+
+Big LCD Display: Come with a LCD Display to show Wind Speed, Wind Temperature, Humidity, and with the backlight function, you can get clearly readings even in the dark environment 
+
+WBGT Detection Settings: Through WBGT alarm configuration alerts, it supports indoor/outdoor WBGT measurement modes. When the black globe temperature (TG) reaches 2050C, it triggers a WBGT alarm. Upon reaching preset alarm thresholds, the WBGT alarm emits a buzzer sound and the LCD backlight turns red 
+
+Versatile Outdoor Applications: This handheld anemometer is suitable for various outdoor activities such as drone flying, hunting, sailing, HVAC vents monitoring, and shooting applications where wind speed and environmental conditions need to be measured accurately. 
+
+ 
+
+##### Positive Comments 
+
+ 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  the user requires Good Build Quality (explicit)                              | 
+
+|                                                                                                                                                                                        | 2.  the customer wants a range readings (implicit) | 
+
+|                                                                                                                                                                                        | 3.  The user mainly uses the product for only one of its features.(explicit)                               | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "Excellent quality - our athletic director loves it!" | 1.  The user finds the quality of the product to be exceptional (explicit)                             | 
+
+|                                                                                                                                                                                        | 2.  The User can find many uses for the product(implicit)| 
+
+|                                                                                                                                                                                        | 3.  the customer can use the product with more than one person (implicit)                             | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "Can’t beat it for the price" | 1.  user states it is a good item for the price(explicit)                             | 
+
+|                                                                                                                                                                                        | 2.  The user uses the product enough to give it this review (implicit)| 
+
+|                                                                                                                                                                                        | 3.  The user can tell the Price to performance    (implicit)                           | 
+
+ 
+
+##### Negative Comments 
+
+ 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "This item worked great for about 3 days and then it shuts off randomly, won’t turn on when I hold the power button unless I keep pressing the button over and over and sometimes it will turn on, usually it doesn’t no matter how hard I try. I’ve changed batteries twice now to see if that would help as sometimes batteries go bad, but that didn’t help. I guess you get what you pay for. Which stinks, because I really need this product for my trainings to make sure I can keep my athletes safe" | 1.  user states the ability to power on the device becomes inconsistent after a timeframe of 3 days(explicit)                              | 
+
+|                                                                                                                                                                                        | 2.  The user states that they need it to consistently work in order to keep others safe (explicit)| 
+
+|                                                                                                                                                                                        | 3.  The user states that the price of the product is synonymous with the lifespan quality of that product(explicit)                           | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "Just stopped working after 1 year. We make sure to remove the batteries when not in use and it is stored in its case in a cabinet. When we opened it today, there was a little bit of moisture in it and now it doesn't work." | 1.  The user states that moisture can destroy the products ability to function(explicit)                              | 
+
+|                                                                                                                                                                                        | 2.  The user states that is required to remove the power source when the product is not in use(explicit)| 
+
+|                                                                                                                                                                                        | 3.  The customer stores the product in its case when it is not in use, meaning that it doesn't get used often (implicit)                              | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "There is a delay when pushing the different buttons throughout the controls. 
+
+The most annoying thing is that when you push the “Wind” button to change the units for the wind meter, the units aren’t displayed for the (feet/min, knots, mph). 
+
+In other words, only the units are shown when on (m/sec, km/hr) but it does not display the units for the rest. So you don’t have a good idea of which units you’re measuring in. The overall accuracy of the device is ok." | 1.  The user states that there is an issue with displaying units for nonstandard units of measurement.(Explicit)                             | 
+
+|                                                                                                                                                                                        | 2.  The user states there is a delay in the controls (explicit) | 
+
+|                                                                                                                                                                                        | 3.  The user states that the ability to measure accurately could be better (implicit)                               | 
 #### 4. Next Product goes here
 
 ### Search #3
