@@ -79,6 +79,7 @@ title: User Needs and Benchmarking
 
 **Search Results Link:** [https://www.amazon.com/s?k=heat+stress+monitor+weather&i=industrial&crid=3AKI1UVUHISHJ&sprefix=heat+stress+monitor+weathe%2Cindustrial%2C186&ref=nb_sb_noss_1](https://www.amazon.com/s?k=heat+stress+monitor+weather&i=industrial&crid=3AKI1UVUHISHJ&sprefix=heat+stress+monitor+weathe%2Cindustrial%2C186&ref=nb_sb_noss_1)
 
+### Selected Products
 
 #### 3. [BTMETER BT-881W Heat Stress Meter Anemometer, Digital Indoor/Outdoor WBGT (Wet Bulb Globe Temperature) Meter with Wind Speed, Ambient Temp, Humidity Tester](https://a.co/d/00an6OAi)
 
@@ -123,6 +124,8 @@ title: User Needs and Benchmarking
 
 
 **Search Results Link:** [https://duckduckgo.com/?q=best+home+weathor+sensor&t=newext&atb=v461-1&ia=shopping&iax=shopping](https://duckduckgo.com/?q=best+home+weathor+sensor&t=newext&atb=v461-1&ia=shopping&iax=shopping)
+
+### Selected Products
 
 #### 5. Next Product goes here
 
