@@ -68,75 +68,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 3.  Customer support needs to understand the difference between a failed product and a product that requires troubleshooting (explicit)                               |
 |                                                                                                                                                                                        | 4.  The user wants an honest product from the start (latent)                               |
 
-#### 2. Next Product goes here
-
-### Search #2
-
-
-**Keywords:** "heat stress monitor weather"
-
-
-
-**Search Results Link:** [https://a.co/d/03WsJ7ht](https://a.co/d/03WsJ7ht)
-
-### Selected Products
-
-#### 3. [Heat Stress Meter Anemometer AP-881W Outdoor Wet Bulb Globe Thermometer Digital Wind Speed Gauges for Wind Speed/Humidity/WBGT Alarm and Temperature (℃/℉) Humidity Tester for Outdoor Workers](https://a.co/d/03WsJ7ht)
-
-![](image1.png)
-
-**(include a picture)**
-
-* Price: $36.99
-
-* Vendor: Amazon
-
-* Description:Wet Bulb Globe Thermometer Anemometer: Wind Speed Range0-30m/s, Resolution:0.1m/s. Temperature Range: 0-50/32-122(Accuracy:+/-0.6). Humidity range: 0.1%-99.9%RH; Resolution:0.1%RH. Measure wind speed in 5 units:m/s, km/h, Ft/min, Knots, Mph. Wind temp in /
-Heat Stress Meter Anemometer: AP-881W features a built-in wind speed detector and temperature/humidity sensor, capable of measuring wind speed, wind chill, and humidity with a humidity resolution of 0.1%RH. This portable WBGT heat stress monitor uses a four-color warning system to alert you to environmental temperatures, helping you avoid danger
-Big LCD Display: Come with a LCD Display to show Wind Speed, Wind Temperature, Humidity, and with the backlight function, you can get clearly readings even in the dark environment
-WBGT Detection Settings: Through WBGT alarm configuration alerts, it supports indoor/outdoor WBGT measurement modes. When the black globe temperature (TG) reaches 2050C, it triggers a WBGT alarm. Upon reaching preset alarm thresholds, the WBGT alarm emits a buzzer sound and the LCD backlight turns red
-Versatile Outdoor Applications: This handheld anemometer is suitable for various outdoor activities such as drone flying, hunting, sailing, HVAC vents monitoring, and shooting applications where wind speed and environmental conditions need to be measured accurately.
-
-##### Positive Comments
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  the user requires Good Build Quality (explicit)                              |
-|                                                                                                                                                                                        | 2.  the customer wants a range readings (implicit) |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Excellent quality - our athletic director loves it!" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Can’t beat it for the price" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-
-##### Negative Comments
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "This item worked great for about 3 days and then it shuts off randomly, won’t turn on when I hold the power button unless I keep pressing the button over and over and sometimes it will turn on, usually it doesn’t no matter how hard I try. I’ve changed batteries twice now to see if that would help as sometimes batteries go bad, but that didn’t help. I guess you get what you pay for. Which stinks, because I really need this product for my trainings to make sure I can keep my athletes safe" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Just stopped working after 1 year. We make sure to remove the batteries when not in use and it is stored in its case in a cabinet. When we opened it today, there was a little bit of moisture in it and now it doesn't work." | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "There is a delay when pushing the different buttons throughout the controls.
-
-The most annoying thing is that when you push the “Wind” button to change the units for the wind meter, the units aren’t displayed for the (feet/min, knots, mph).
-
-In other words, only the units are shown when on (m/sec, km/hr) but it does not display the units for the rest. So you don’t have a good idea of which units you’re measuring in. The overall accuracy of the device is ok." | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-
+eat Stress Meter Anemometer AP-881W Outdoor Wet Bulb Globe Thermometer Digital Wind Speed Gauges for Wind Speed/Humidity/WBGT Alarm and Temperature (℃/℉) Humidity Tester for Outdoor Workers]
 
 #### 4. Next Product goes here
 
