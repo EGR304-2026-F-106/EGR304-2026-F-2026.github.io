@@ -80,7 +80,36 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 3. Next Product goes here
+#### Search #3
+
+**Keywords:** "heat stress monitor"
+
+**Search Results Link:** [https://a.co/d/00an6OAi
+](https://a.co/d/00an6OAi)
+
+### Selected Products
+
+#### 3. [Acurite White Digital Indoor Thermometer with Compact Display, Battery-Powered, (1 x 3.75 x 6.25)](https://www.walmart.com/ip/Acurite-White-Digital-Indoor-Thermometer-with-Compact-Display-Battery-Powered-1-x-3-75-x-6-25/188541548?wmlspartner=wlpa&selectedSellerId=0&wl13=4451&adid=22222222297188541548_0000000000_23887149012&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9030021&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=188541548&veh=sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23892387002&gbraid=0AAAAADmfBIolV0NebB8r2cq6lqzh_tPnE&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1OkoJIW1KGSAWNK8LYytqcK60AXEcWVwwuDKhvng_IlkwJdf7_QZIgaAhZDEALw_wcB)
+
+![](image1.png)
+
+**(include a picture)**
+
+* Price: $38.99
+
+* Vendor: Amazon
+
+* Description: Not Just a digital anemometer, but also a handheld heat stress meter to check black ball temperature, ambient temperature and humidity. One-button to switch it into an anemometro or heat stess monitor mode.BT-881W could measure windspeed 0~30m/s, test wind temperature 0~50℃，monitor relative humidity 0.1%~99.9%RH, check WBGT temperature 32~122°F(Celsius Fahrenheit Switchable).
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "XXXXXX" | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+
+
 
 #### 4. Next Product goes here
 
