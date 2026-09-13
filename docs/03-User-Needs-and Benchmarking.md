@@ -117,23 +117,15 @@ title: User Needs and Benchmarking
 
 **Search Results Link:** [https://a.co/d/03WsJ7ht](https://a.co/d/03WsJ7ht) 
 
- 
-
 ### Selected Products 
 
- 
-
 #### 3. [Heat Stress Meter Anemometer AP-881W Outdoor Wet Bulb Globe Thermometer Digital Wind Speed Gauges for Wind Speed/Humidity/WBGT Alarm and Temperature (℃/℉) Humidity Tester for Outdoor Workers](https://a.co/d/03WsJ7ht) 
-
- 
 
 ![](image1.png) 
 
  
 
 **(include a picture)** 
-
- 
 
 * Price: $36.99 
 
@@ -228,6 +220,139 @@ In other words, only the units are shown when on (m/sec, km/hr) but it does not 
 |                                                                                                                                                                                        | 2.  The user states there is a delay in the controls (explicit) | 
 
 |                                                                                                                                                                                        | 3.  The user states that the ability to measure accurately could be better (implicit)                               | 
+
+
+
+#### 2. Next Product goes here 
+
+ 
+
+### Search #2 
+
+ 
+
+ 
+
+**Keywords:** "heat stress monitor weather" 
+
+ 
+
+ 
+
+ 
+
+**Search Results Link:** [https://a.co/d/03WsJ7ht](https://a.co/d/03WsJ7ht) 
+
+ 
+
+### Selected Products 
+
+ 
+
+#### 3. []() 
+
+ 
+
+![](image1.png) 
+
+ 
+
+**(include a picture)** 
+
+ 
+
+* Price:  
+
+ 
+
+* Vendor:  
+
+ 
+
+* Description: 
+
+ 
+
+ 
+
+##### Positive Comments 
+
+ 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| " xxxxxxx " | 1.  xxxxxxx                           | 
+
+|                                                                                                                                                                                        | 2.  xxxxxxx | 
+
+|                                                                                                                                                                                        | 3.  xxxxxxx                            | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| " xxxxxxx " | 1. xxxxxxx 
+
+                                                                                                                                                            | 2.  The User can find many uses for the product(implicit)| 
+
+|                                                                                                                                                                                        | 3.  t xxxxxxx                           | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| " xxxxxxx " | 1.  xxxxxxx)                             | 
+
+|                                                                                                                                                                                        | 2.  xxxxxxx | 
+
+|                                                                                                                                                                                        | 3.  xxxxxxx                        | 
+
+ 
+
+##### Negative Comments 
+
+ 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| " xxxxxxx " | 1.  xxxxxxx                           | 
+
+|                                                                                                                                                                                        | 2.  xxxxxxx | 
+
+|                                                                                                                                                                                        | 3.  xxxxxxx                      | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| "xxxxxxx " | 1.  xxxxxxx                         | 
+
+|                                                                                                                                                                                        | 2.  xxxxxxx | 
+
+|                                                                                                                                                                                        | 3.  xxxxxxx                          | 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
+
+| " xxxxxxx" | 1.  xxxxxxx                        | 
+
+|                                                                                                                                                                                        | 2.  xxxxxxx | 
+
+|                                                                                                                                                                                        | 3. xxxxxxx                          | 
+
+ 
+
+ 
+
+ 
+
+
+
 #### 4. Next Product goes here
 
 ### Search #3
