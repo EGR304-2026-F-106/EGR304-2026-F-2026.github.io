@@ -101,8 +101,8 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
+| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  the user requires Good Build Quality (explicit)                              |
+|                                                                                                                                                                                        | 2.  the customer wants a range readings (implicit) |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -141,46 +141,70 @@ In other words, only the units are shown when on (m/sec, km/hr) but it does not 
 #### 4. Next Product goes here
 
 ### Search #3
-
-
+ 
 **Keywords:** "best home weather station"
 
 
 
+
 **Search Results Link:** [https://duckduckgo.com/?q=best+home+weathor+sensor&t=newext&atb=v461-1&ia=shopping&iax=shopping](https://duckduckgo.com/?q=best+home+weathor+sensor&t=newext&atb=v461-1&ia=shopping&iax=shopping)
-
+ 
 ### Selected Products
-
+ 
 #### 5. [VEVOR 7-in-1 Wireless Weather Station, 7.5 in Color Display, Digital Weather Station Indoor Outdoor, for Temperature Humidity Wind Speed/Direction Rain UV, with Forecast Data, Alarm, Alerts-NO WiFi](https://www.amazon.com/VEVOR-Wireless-Temperature-Direction-Alerts-NO/dp/B0CRQTRWGZ?tag=bingshoppinga-20&linkCode=df0&hvadid=80539436594960&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=78466&hvtargid=pla-4584138917516841&hvocijid=8279590264518473425-B0CRQTRWGZ-&hvexpln=0&th=1)
-
+ 
 ![](image1.png)
-
+ 
 **(include a picture)**
-
+ 
 * Price: $75.90
-
+ 
 * Vendor: Amazon
-
+ 
 * Description: Comprehensive Data at Your Fingertips: Our solar-powered weather station accurately monitors wind speed, direction, temperature, humidity, rainfall, light, etc, so you can keep tabs on the weather right from home. With an IPX6 waterproof rating, it withstands heavy rain without skipping a beat. The upgraded design ensures precise monitoring for all your needs.
-
+ 
 ##### Positive Comments
-
+ 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "XXXXXX" | 1.  XXXXXX                              |
+| "Great weather station. Easy to set up. Has good range. Lots of options to choose from to customize the display. Display is a nice size, easy to read. It is laid out nicely so that it is not confusing or overwhelming to read. Has a nice battery back up so if you lose power you do not lose your data. There are multiple tools for a variety of options on how you want to secure it outside. Definitely would recommend, very happy with the purchase!" | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
+ 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "This Vevor cordless (remote) weather hub was exactly as described in the Amazon catalog. Earlier I had ordered (and returned) a more expensive weather station, but the display was so dark it couldn't be read. After I assembled the Vevor, added the batteries, set it outside according to the instructions, and plugged in the display (with batteries), it started its automatic setup routine. Within half an hour, the programming set the time and date and displayed all of the information that I hoped it would. There are buttons at the bottom of the display that allow a user to display some data that isn't regularly needed, and also allows the user to quickly get back to the regularly desired reports. (Did I mention that this Amazon purchase also saved me money?)" | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+ 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "The weather station is a replacement for one that we had for about 6 years. Easy to assemble and set up. Our internet was an issue with the old unit as it kept losing signal, so we went with no internet with this one. So far, very pleased. The temperature seems to be pretty close to what our outside thermometer shows. Just waiting for rain to see how close that seems." | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+
 
 
 
 ##### Negative Comments
-
+ 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "XXXXXX" | 1.  XXXXXX                              |
+| "save your money ... this worked ok for a while and then it started to have brain issues ... the outside temp is always 70.4 even when it is 90 outside... the rain gauge stopped working and never shows any rain at all ... wind is never even close to correct .... and then the part that pushed me to do this review is the darn thing starts setting off a loud audible alarm in the middle of the night... never the same time, but always in the middle of the night, and never for any known reason. Bottom line this is a piece of crap .... I will be removing it from our roof and putting it on a fence post out in the pasture and using it for target practice... that's all it's good for" | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
-
+ 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "My daughter got one as a gift and I bought one for our house. A little over a year old both units on the same day the temperature and humidity reading went to 158 with 1% which indicates a sensor malfunction. You might want to consider something that has better longevity." | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+ 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Nice looking, but the outdoor piece is VERY light weight, and I am not sure how well it will hold up. The rain gauge has yet to even be close to reading what we show in an old school glass tube rain gauge. The indoor unit frequently losses connection and just sits and blinks till you reconnect or power cycle, and the outdoor unit does not charge the batteries well at all. Update: Tried for several months trying to get any kind of support response from Vevor, no luck. The unit is utter garbage, unless all you want is an indoor unit. The out door unit is poorly made, The solar charging for the re-chargable batteries does not work! As soon as the batteries die, the outdoor unit quits communicating. Best to skip this unit, and go find a better quality unit that is backed by a vendor that will actually respond to tech support question. Very disappointed in Vevor with this. | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
 
 
 ## Organized Need Statements
