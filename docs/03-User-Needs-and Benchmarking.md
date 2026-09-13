@@ -77,41 +77,65 @@ title: User Needs and Benchmarking
 
 
 
-**Search Results Link:** [https://www.amazon.com/s?k=heat+stress+monitor+weather&i=industrial&crid=3AKI1UVUHISHJ&sprefix=heat+stress+monitor+weathe%2Cindustrial%2C186&ref=nb_sb_noss_1](https://www.amazon.com/s?k=heat+stress+monitor+weather&i=industrial&crid=3AKI1UVUHISHJ&sprefix=heat+stress+monitor+weathe%2Cindustrial%2C186&ref=nb_sb_noss_1)
+**Search Results Link:** [https://a.co/d/03WsJ7ht](https://a.co/d/03WsJ7ht)
 
 ### Selected Products
 
-#### 3. [BTMETER BT-881W Heat Stress Meter Anemometer, Digital Indoor/Outdoor WBGT (Wet Bulb Globe Temperature) Meter with Wind Speed, Ambient Temp, Humidity Tester](https://a.co/d/00an6OAi)
+#### 3. [Heat Stress Meter Anemometer AP-881W Outdoor Wet Bulb Globe Thermometer Digital Wind Speed Gauges for Wind Speed/Humidity/WBGT Alarm and Temperature (℃/℉) Humidity Tester for Outdoor Workers](https://a.co/d/03WsJ7ht)
 
 ![](image1.png)
 
 **(include a picture)**
 
-* Price: $38.99
+* Price: $36.99
 
 * Vendor: Amazon
 
-* Description: Not Just a digital anemometer, but also a handheld heat stress meter to check black ball temperature, ambient temperature and humidity. One-button to switch it into an anemometro or heat stess monitor mode.BT-881W could measure windspeed 0~30m/s, test wind temperature 0~50℃，monitor relative humidity 0.1%~99.9%RH, check WBGT temperature 32~122°F(Celsius Fahrenheit Switchable).
+* Description:Wet Bulb Globe Thermometer Anemometer: Wind Speed Range0-30m/s, Resolution:0.1m/s. Temperature Range: 0-50/32-122(Accuracy:+/-0.6). Humidity range: 0.1%-99.9%RH; Resolution:0.1%RH. Measure wind speed in 5 units:m/s, km/h, Ft/min, Knots, Mph. Wind temp in /
+Heat Stress Meter Anemometer: AP-881W features a built-in wind speed detector and temperature/humidity sensor, capable of measuring wind speed, wind chill, and humidity with a humidity resolution of 0.1%RH. This portable WBGT heat stress monitor uses a four-color warning system to alert you to environmental temperatures, helping you avoid danger
+Big LCD Display: Come with a LCD Display to show Wind Speed, Wind Temperature, Humidity, and with the backlight function, you can get clearly readings even in the dark environment
+WBGT Detection Settings: Through WBGT alarm configuration alerts, it supports indoor/outdoor WBGT measurement modes. When the black globe temperature (TG) reaches 2050C, it triggers a WBGT alarm. Upon reaching preset alarm thresholds, the WBGT alarm emits a buzzer sound and the LCD backlight turns red
+Versatile Outdoor Applications: This handheld anemometer is suitable for various outdoor activities such as drone flying, hunting, sailing, HVAC vents monitoring, and shooting applications where wind speed and environmental conditions need to be measured accurately.
 
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "XXXXXX" | 1.  XXXXXX                              |
+| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
-
-
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Excellent quality - our athletic director loves it!" | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Can’t beat it for the price" | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
 
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "XXXXXX" | 1.  XXXXXX                              |
+| "This item worked great for about 3 days and then it shuts off randomly, won’t turn on when I hold the power button unless I keep pressing the button over and over and sometimes it will turn on, usually it doesn’t no matter how hard I try. I’ve changed batteries twice now to see if that would help as sometimes batteries go bad, but that didn’t help. I guess you get what you pay for. Which stinks, because I really need this product for my trainings to make sure I can keep my athletes safe" | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Just stopped working after 1 year. We make sure to remove the batteries when not in use and it is stored in its case in a cabinet. When we opened it today, there was a little bit of moisture in it and now it doesn't work." | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "There is a delay when pushing the different buttons throughout the controls.
 
+The most annoying thing is that when you push the “Wind” button to change the units for the wind meter, the units aren’t displayed for the (feet/min, knots, mph).
 
+In other words, only the units are shown when on (m/sec, km/hr) but it does not display the units for the rest. So you don’t have a good idea of which units you’re measuring in. The overall accuracy of the device is ok." | 1.  XXXXXX                              |
+|                                                                                                                                                                                        | 2.  XXXXXX |
+|                                                                                                                                                                                        | 3.  XXXXXX                               |
 
 
 #### 4. Next Product goes here
@@ -143,19 +167,7 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Great weather station. Easy to set up. Has good range. Lots of options to choose from to customize the display. Display is a nice size, easy to read. It is laid out nicely so that it is not confusing or overwhelming to read. Has a nice battery back up so if you lose power you do not lose your data. There are multiple tools for a variety of options on how you want to secure it outside. Definitely would recommend, very happy with the purchase!" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "This Vevor cordless (remote) weather hub was exactly as described in the Amazon catalog. Earlier I had ordered (and returned) a more expensive weather station, but the display was so dark it couldn't be read. After I assembled the Vevor, added the batteries, set it outside according to the instructions, and plugged in the display (with batteries), it started its automatic setup routine. Within half an hour, the programming set the time and date and displayed all of the information that I hoped it would. There are buttons at the bottom of the display that allow a user to display some data that isn't regularly needed, and also allows the user to quickly get back to the regularly desired reports. (Did I mention that this Amazon purchase also saved me money?)" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "The weather station is a replacement for one that we had for about 6 years. Easy to assemble and set up. Our internet was an issue with the old unit as it kept losing signal, so we went with no internet with this one. So far, very pleased. The temperature seems to be pretty close to what our outside thermometer shows. Just waiting for rain to see how close that seems." | 1.  XXXXXX                              |
+| "XXXXXX" | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
 
@@ -165,19 +177,7 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "save your money ... this worked ok for a while and then it started to have brain issues ... the outside temp is always 70.4 even when it is 90 outside... the rain gauge stopped working and never shows any rain at all ... wind is never even close to correct .... and then the part that pushed me to do this review is the darn thing starts setting off a loud audible alarm in the middle of the night... never the same time, but always in the middle of the night, and never for any known reason. Bottom line this is a piece of crap .... I will be removing it from our roof and putting it on a fence post out in the pasture and using it for target practice... that's all it's good for" | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My daughter got one as a gift and I bought one for our house. A little over a year old both units on the same day the temperature and humidity reading went to 158 with 1% which indicates a sensor malfunction. You might want to consider something that has better longevity." | 1.  XXXXXX                              |
-|                                                                                                                                                                                        | 2.  XXXXXX |
-|                                                                                                                                                                                        | 3.  XXXXXX                               |
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Nice looking, but the outdoor piece is VERY light weight, and I am not sure how well it will hold up. The rain gauge has yet to even be close to reading what we show in an old school glass tube rain gauge. The indoor unit frequently losses connection and just sits and blinks till you reconnect or power cycle, and the outdoor unit does not charge the batteries well at all. Update: Tried for several months trying to get any kind of support response from Vevor, no luck. The unit is utter garbage, unless all you want is an indoor unit. The out door unit is poorly made, The solar charging for the re-chargable batteries does not work! As soon as the batteries die, the outdoor unit quits communicating. Best to skip this unit, and go find a better quality unit that is backed by a vendor that will actually respond to tech support question. Very disappointed in Vevor with this. | 1.  XXXXXX                              |
+| "XXXXXX" | 1.  XXXXXX                              |
 |                                                                                                                                                                                        | 2.  XXXXXX |
 |                                                                                                                                                                                        | 3.  XXXXXX                               |
 
