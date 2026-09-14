@@ -239,6 +239,16 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 
 ### Ranked
 
+After individually grouping our need statements into the six different categories, we came together to determine the order of importance for these categories. We began by taking a count on how many statements we had collectively in each category, and if one of the members had more/less statements in a category than another, we were given an opportunity to reason with each other as to why we believe that category belonged in its placement. A democratic vote was held afterwards during these minor disagreements, and there was one final check to see if the team agreed with the final placements. After the last overview, this was the outcome of the category rankings:
+
+1. Reliability / Safety
+2. Maintenance / Setup
+3. Lighting / Display
+4. Customization
+5. Power Source
+6. Budget
+
+
 ## Compiled list of user Needs
 1. The device will...
 2. The device is ...
