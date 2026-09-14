@@ -241,8 +241,6 @@ The list below shows the 100+ statements initially collected throughout the docu
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
 
-## Grouped with Categories
-
 ### Category 1: Lighting & Display
 
 **Meta Need:** The display of the thermometer is easy to understand. 
