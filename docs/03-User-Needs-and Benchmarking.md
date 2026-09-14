@@ -210,6 +210,7 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 | "Great weather station. Easy to set up. Has good range. Lots of options to choose from to customize the display. Display is a nice size, easy to read. It is laid out nicely so that it is not confusing or overwhelming to read. Has a nice battery back up so if you lose power you do not lose your data. There are multiple tools for a variety of options on how you want to secure it outside. Definitely would recommend, very happy with the purchase!" | 1. The thermometer should be customizable for the user (explicit). |
 | | 2. The thermometer should have battery backup (explicit). |
 | | 3. The thermometer should be reliable during any outside interruptions (latent). |
+| | 4. The thermometer has good range (explicit). |
 | "This Vevor cordless (remote) weather hub was exactly as described in the Amazon catalog. Earlier I had ordered (and returned) a more expensive weather station, but the display was so dark it couldn't be read. After I assembled the Vevor, added the batteries, set it outside according to the instructions, and plugged in the display (with batteries), it started its automatic setup routine. Within half an hour, the programming set the time and date and displayed all of the information that I hoped it would. There are buttons at the bottom of the display that allow a user to display some data that isn't regularly needed, and also allows the user to quickly get back to the regularly desired reports. (Did I mention that this Amazon purchase also saved me money?)" | 1. The programming can set up the time and date on its own (explicit). |
 | | 2. The program allows the user to look at extra data (explicit). |
 | | 3. The product should be set at a very reasonable price (latent). |
@@ -221,15 +222,16 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| "save your money ... this worked ok for a while and then it started to have brain issues ... the outside temp is always 70.4 even when it is 90 outside... the rain gauge stopped working and never shows any rain at all ... wind is never even close to correct .... and then the part that pushed me to do this review is the darn thing starts setting off a loud audible alarm in the middle of the night... never the same time, but always in the middle of the night, and never for any known reason. Bottom line this is a piece of crap .... I will be removing it from our roof and putting it on a fence post out in the pasture and using it for target practice... that's all it's good for" | 1. The thermometer shouldn't release false alarms (explicit) |
-| | 2. When an alarm is released, it should be for a known reason (explicit) |
-| | 3. The thermometer shouldn't be able to track windspeed properly (explicit) |
+| "save your money ... this worked ok for a while and then it started to have brain issues ... the outside temp is always 70.4 even when it is 90 outside... the rain gauge stopped working and never shows any rain at all ... wind is never even close to correct .... and then the part that pushed me to do this review is the darn thing starts setting off a loud audible alarm in the middle of the night... never the same time, but always in the middle of the night, and never for any known reason. Bottom line this is a piece of crap .... I will be removing it from our roof and putting it on a fence post out in the pasture and using it for target practice... that's all it's good for" | 1. The thermometer shouldn't release false alarms (explicit). |
+| | 2. When an alarm is released, it should be for a known reason (explicit). |
+| | 3. The thermometer shouldn't be able to track windspeed properly (explicit). |
 | "My daughter got one as a gift and I bought one for our house. A little over a year old both units on the same day the temperature and humidity reading went to 158 with 1% which indicates a sensor malfunction. You might want to consider something that has better longevity." | 1. Each product sold should last the same as one another (latent). |
 | | 2. The product should have longevity (explicit). |
 | | 3. The thermostat should be a gift worth receiving (latent). |
-| "Nice looking, but the outdoor piece is VERY light weight, and I am not sure how well it will hold up. The rain gauge has yet to even be close to reading what we show in an old school glass tube rain gauge. The indoor unit frequently losses connection and just sits and blinks till you reconnect or power cycle, and the outdoor unit does not charge the batteries well at all. Update: Tried for several months trying to get any kind of support response from Vevor, no luck. The unit is utter garbage, unless all you want is an indoor unit. The out door unit is poorly made, The solar charging for the re-chargable batteries does not work! As soon as the batteries die, the outdoor unit quits communicating. Best to skip this unit, and go find a better quality unit that is backed by a vendor that will actually respond to tech support question. Very disappointed in Vevor with this." | 1. The thermometer should be heavy enough to stabalize itself (explicit) |
+| "Nice looking, but the outdoor piece is VERY light weight, and I am not sure how well it will hold up. The rain gauge has yet to even be close to reading what we show in an old school glass tube rain gauge. The indoor unit frequently losses connection and just sits and blinks till you reconnect or power cycle, and the outdoor unit does not charge the batteries well at all. Update: Tried for several months trying to get any kind of support response from Vevor, no luck. The unit is utter garbage, unless all you want is an indoor unit. The out door unit is poorly made, The solar charging for the re-chargable batteries does not work! As soon as the batteries die, the outdoor unit quits communicating. Best to skip this unit, and go find a better quality unit that is backed by a vendor that will actually respond to tech support question. Very disappointed in Vevor with this." | 1. The thermometer should be heavy enough to stabalize itself (explicit). |
 | | 2. The thermometer should be as good, if not, then better than old school weather readers (explicit). |
-| | 3. The thermometer's indoor unit shouldn't have to lose connection often.  |
+| | 3. The thermometer's indoor unit shouldn't have to lose connection often (explicit).  |
+| | 4. The thermometer should have reliable batteries (explicit). |
 
 ## Organized Need Statements
 
@@ -245,11 +247,7 @@ Once all of the user-need statements were made through these 5 products, there s
 
 **Meta Need:** The display of the thermometer is easy to understand. 
 
-- The device provides accurate temperature readings.
-- The device provides accurate humidity readings.
-- The device provides accurate wind speed readings.
-- The device provides consistent measurements over time.
-- The device responds quickly to environmental changes.
+- XXXXXX
 
 ---
 
@@ -257,11 +255,7 @@ Once all of the user-need statements were made through these 5 products, there s
 
 **Meta Need:** The thermometer can provide accurate readings and safely last for years to come.
 
-- The device operates reliably over extended periods.
-- The device maintains accurate readings during repeated use.
-- The device avoids unexpected resets or failures.
-- The device maintains sensor functionality over time.
-- The device provides dependable warnings when conditions change.
+- XXXXXX
 
 ---
 
@@ -269,35 +263,21 @@ Once all of the user-need statements were made through these 5 products, there s
 
 **Meta Need:** The device’s setup is effortless and only requires quick maintenance every now and then.
 
-- The device requires minimal setup.
-- The device requires little training to use.
-- The device presents readings clearly.
-- The device provides controls that are easy to understand.
-- The device communicates warnings clearly.
-
+- XXXXXX
 ---
 
 ### Category 4: Customization
 
 **Meta Need:** The thermometer is customizable for multiple situations and uses.
 
-- The device withstands outdoor conditions.
-- The device resists damage from repeated use.
-- The device functions across a wide temperature range.
-- The device tolerates exposure to moisture.
-- The device maintains functionality after transportation.
-
+- XXXXXX
 ---
 
 ### Category 5: Power Source
 
 **Meta Need:** The thermometer’s power source is simply constructed with little-to-no drawbacks.
 
-- The device is easy to carry.
-- The device is compact.
-- The device is lightweight.
-- The device can be easily stored.
-- The device can be used in multiple locations.
+- XXXXXX
 
 ---
 
@@ -305,11 +285,7 @@ Once all of the user-need statements were made through these 5 products, there s
 
 **Meta Need:** The thermometer’s price is reasonable and affordable for its features.
 
-- The device is easy to carry.
-- The device is compact.
-- The device is lightweight.
-- The device can be easily stored.
-- The device can be used in multiple locations.
+- XXXXXX
 
 ---
 
