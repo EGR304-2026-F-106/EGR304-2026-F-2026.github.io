@@ -234,12 +234,15 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 ## Organized Need Statements
 
 ### First Placement
+The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. In later sections, the full process of organizing these statements can be shown, as well as the final ranking of these needs. For now, these are all the statements that were collected:
 
 ### Grouped with categories
+Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
+
 
 ### Ranked
 
-After individually grouping our need statements into the six different categories, we came together to determine the order of importance for these categories. We began by taking a count on how many statements we had collectively in each category, and if one of the members had more/less statements in a category than another, we were given an opportunity to reason with each other as to why we believe that category belonged in its placement. A democratic vote was held afterwards during these minor disagreements, and there was one final check to see if the team agreed with the final placements. After the last overview, this was the outcome of the category rankings:
+After individually grouping our need statements into the six different categories and combining duplicate needs, we came together to determine the order of importance for these categories. We began by taking a count on how many statements we had collectively in each category, and if one of the members had more/less statements in a category than another, we were given an opportunity to reason with each other as to why we believe that category belonged in its placement. A democratic vote was held afterwards during these minor disagreements, and there was one final check to see if the team agreed with the final placements. After the last overview, this was the outcome of the category rankings:
 
 1. Reliability / Safety
 2. Maintenance / Setup
@@ -250,6 +253,9 @@ After individually grouping our need statements into the six different categorie
 
 
 ## Compiled list of user Needs
+
+Below shows a list of the 100 unique user-needs statements that were made earlier. Rather than individually ranking each statement against each other from different categories, the list will feature the same order of importance for the six categories that were shown in the Ranked section. Each statement will then be ranked for their importance within the category, with 5 being the most important, and 1 being the least important.
+
 1. The device will...
 2. The device is ...
 3. The device can ...
