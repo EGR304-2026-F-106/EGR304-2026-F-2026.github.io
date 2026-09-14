@@ -239,6 +239,78 @@ The list below shows the 100+ statements initially collected throughout the docu
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
 
+## Grouped with Categories
+
+### Category 1: Lighting & Display
+
+**Meta Need:** The display of the thermometer is easy to understand. 
+
+- The device provides accurate temperature readings.
+- The device provides accurate humidity readings.
+- The device provides accurate wind speed readings.
+- The device provides consistent measurements over time.
+- The device responds quickly to environmental changes.
+
+---
+
+### Category 2: Reliability / Safety
+
+**Meta Need:** The thermometer can provide accurate readings and safely last for years to come.
+
+- The device operates reliably over extended periods.
+- The device maintains accurate readings during repeated use.
+- The device avoids unexpected resets or failures.
+- The device maintains sensor functionality over time.
+- The device provides dependable warnings when conditions change.
+
+---
+
+### Category 3: Setup & Maintenance
+
+**Meta Need:** The device’s setup is effortless and only requires quick maintenance every now and then.
+
+- The device requires minimal setup.
+- The device requires little training to use.
+- The device presents readings clearly.
+- The device provides controls that are easy to understand.
+- The device communicates warnings clearly.
+
+---
+
+### Category 4: Customization
+
+**Meta Need:** The thermometer is customizable for multiple situations and uses.
+
+- The device withstands outdoor conditions.
+- The device resists damage from repeated use.
+- The device functions across a wide temperature range.
+- The device tolerates exposure to moisture.
+- The device maintains functionality after transportation.
+
+---
+
+### Category 5: Power Source
+
+**Meta Need:** The thermometer’s power source is simply constructed with little-to-no drawbacks.
+
+- The device is easy to carry.
+- The device is compact.
+- The device is lightweight.
+- The device can be easily stored.
+- The device can be used in multiple locations.
+
+---
+
+### Category 6: Budget
+
+**Meta Need:** The thermometer’s price is reasonable and affordable for its features.
+
+- The device is easy to carry.
+- The device is compact.
+- The device is lightweight.
+- The device can be easily stored.
+- The device can be used in multiple locations.
+
 
 ### Ranked
 
