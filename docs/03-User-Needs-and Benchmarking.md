@@ -311,6 +311,9 @@ Once all of the user-need statements were made through these 5 products, there s
 - The device can be easily stored.
 - The device can be used in multiple locations.
 
+---
+
+
 
 ### Ranked
 
@@ -326,9 +329,107 @@ After individually grouping our need statements into the six different categorie
 
 ## Compiled list of user Needs
 
-Below shows a list of the 100 unique user-needs statements that were made earlier. Rather than individually ranking each statement against each other from different categories, the list will feature the same order of importance for the six categories that were shown in the Ranked section. Each statement will then be ranked for their importance within the category, with 5 being the most important, and 1 being the least important.
+Below shows a chart of the 100 unique user-needs statements that were made earlier. Each statement will feature the category it belongs in, whether its implicit or explicit, and their total ranking on the list:
 
-1. The device will...
-2. The device is ...
-3. The device can ...
-4. The device is...
+| # | Category | User Need Statement | Type |
+|---|---|---|---|---|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+| 6 |  |  |  |
+| 7 |  |  |  |
+| 8 |  |  |  |
+| 9 |  |  |  |
+| 10 |  |  |  |
+| 11 |  |  |  |
+| 12 |  |  |  |
+| 13 |  |  |  |
+| 14 |  |  |  |
+| 15 |  |  |  |
+| 16 |  |  |  |
+| 17 |  |  |  |
+| 18 |  |  |  |
+| 19 |  |  |  |
+| 20 |  |  |  |
+| 21 |  |  |  |
+| 22 |  |  |  |
+| 23 |  |  |  |
+| 24 |  |  |  |
+| 25 |  |  |  |
+| 26 |  |  |  |
+| 27 |  |  |  |
+| 28 |  |  |  |
+| 29 |  |  |  |
+| 30 |  |  |  |
+| 31 |  |  |  |
+| 32 |  |  |  |
+| 33 |  |  |  |
+| 34 |  |  |  |
+| 35 |  |  |  |
+| 36 |  |  |  |
+| 37 |  |  |  |
+| 38 |  |  |  |
+| 39 |  |  |  |
+| 40 |  |  |  |
+| 41 |  |  |  |
+| 42 |  |  |  |
+| 43 |  |  |  |
+| 44 |  |  |  |
+| 45 |  |  |  |
+| 46 |  |  |  |
+| 47 |  |  |  |
+| 48 |  |  |  |
+| 49 |  |  |  |
+| 50 |  |  |  |
+| 51 |  |  |  |
+| 52 |  |  |  |
+| 53 |  |  |  |
+| 54 |  |  |  |
+| 55 |  |  |  |
+| 56 |  |  |  |
+| 57 |  |  |  |
+| 58 |  |  |  |
+| 59 |  |  |  |
+| 60 |  |  |  |
+| 61 |  |  |  |
+| 62 |  |  |  |
+| 63 |  |  |  |
+| 64 |  |  |  |
+| 65 |  |  |  |
+| 66 |  |  |  |
+| 67 |  |  |  |
+| 68 |  |  |  |
+| 69 |  |  |  |
+| 70 |  |  |  |
+| 71 |  |  |  |
+| 72 |  |  |  |
+| 73 |  |  |  |
+| 74 |  |  |  |
+| 75 |  |  |  |
+| 76 |  |  |  |
+| 77 |  |  |  |
+| 78 |  |  |  |
+| 79 |  |  |  |
+| 80 |  |  |  |
+| 81 |  |  |  |
+| 82 |  |  |  |
+| 83 |  |  |  |
+| 84 |  |  |  |
+| 85 |  |  |  |
+| 86 |  |  |  |
+| 87 |  |  |  |
+| 88 |  |  |  |
+| 89 |  |  |  |
+| 90 |  |  |  |
+| 91 |  |  |  |
+| 92 |  |  |  |
+| 93 |  |  |  |
+| 94 |  |  |  |
+| 95 |  |  |  |
+| 96 |  |  |  |
+| 97 |  |  |  |
+| 98 |  |  |  |
+| 99 |  |  |  |
+| 100 |  |  |  |
