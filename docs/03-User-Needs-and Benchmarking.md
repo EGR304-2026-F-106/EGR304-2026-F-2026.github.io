@@ -37,6 +37,7 @@ title: User Needs and Benchmarking
 | | 4. The user needs to know if temperature is evenly distributed across their house (latent). |
 
 
+
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
@@ -94,6 +95,7 @@ title: User Needs and Benchmarking
 |                                           | 2. Explicit: Product should have a backlit option.                                                              |
 |                                           | 3. Latent: Sensors need to have rapid and consistent setup times.                                                              |
 |                                           | 4. Latent: Product needs to have minimal permanent mounting methods (nails, screws, etc.) |
+
 
 
 ##### Negative Comments
@@ -160,6 +162,7 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 | "Can’t beat it for the price" | 1. The user states it is a good item for the price (explicit). |
 | | 2. The user uses the product enough to give it this review (implicit). |
 | | 3. The user can tell the price-to-performance value (implicit). |
+
 
 ##### Negative Comments
 
