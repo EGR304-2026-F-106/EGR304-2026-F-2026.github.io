@@ -332,7 +332,7 @@ After individually grouping our need statements into the six different categorie
 Below shows a chart of the 100 unique user-needs statements that were made earlier. Each statement will feature the category it belongs in, whether its implicit or explicit, and their total ranking on the list:
 
 | # | Category | User Need Statement | Type |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 |  |  |  |
 | 2 |  |  |  |
 | 3 |  |  |  |
