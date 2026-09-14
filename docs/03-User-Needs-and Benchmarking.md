@@ -147,79 +147,33 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 
  
 
-##### Positive Comments 
+##### Positive Comments
 
- 
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1. The user requires good build quality (explicit). |
+| | 2. The customer wants a range of readings (implicit). |
+| | 3. The user mainly uses the product for only one of its features (explicit). |
+| "Excellent quality - our athletic director loves it!" | 1. The user finds the quality of the product to be exceptional (explicit). |
+| | 2. The user can find many uses for the product (implicit). |
+| | 3. The customer can use the product with more than one person (implicit). |
+| "Can’t beat it for the price" | 1. The user states it is a good item for the price (explicit). |
+| | 2. The user uses the product enough to give it this review (implicit). |
+| | 3. The user can tell the price-to-performance value (implicit). |
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
+##### Negative Comments
 
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
-
-| "I fly drones and also do some hiking up some fairly large hillsides. I use the anemometer to check for wind speeds before flying my drones. I also like to check values when getting at the top of the hillsides from my hikes. It is nice to see if there are any heavy wind speeds or other values the the meter can detect. I has a very nice quality build." | 1.  the user requires Good Build Quality (explicit)                              | 
-
-|                                                                                                                                                                                        | 2.  the customer wants a range readings (implicit) | 
-
-|                                                                                                                                                                                        | 3.  The user mainly uses the product for only one of its features.(explicit)                               | 
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
-
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
-
-| "Excellent quality - our athletic director loves it!" | 1.  The user finds the quality of the product to be exceptional (explicit)                             | 
-
-|                                                                                                                                                                                        | 2.  The User can find many uses for the product(implicit)| 
-
-|                                                                                                                                                                                        | 3.  the customer can use the product with more than one person (implicit)                             | 
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
-
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
-
-| "Can’t beat it for the price" | 1.  user states it is a good item for the price(explicit)                             | 
-
-|                                                                                                                                                                                        | 2.  The user uses the product enough to give it this review (implicit)| 
-
-|                                                                                                                                                                                        | 3.  The user can tell the Price to performance    (implicit)                           | 
-
- 
-
-##### Negative Comments 
-
- 
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
-
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
-
-| "This item worked great for about 3 days and then it shuts off randomly, won’t turn on when I hold the power button unless I keep pressing the button over and over and sometimes it will turn on, usually it doesn’t no matter how hard I try. I’ve changed batteries twice now to see if that would help as sometimes batteries go bad, but that didn’t help. I guess you get what you pay for. Which stinks, because I really need this product for my trainings to make sure I can keep my athletes safe" | 1.  user states the ability to power on the device becomes inconsistent after a timeframe of 3 days(explicit)                              | 
-
-|                                                                                                                                                                                        | 2.  The user states that they need it to consistently work in order to keep others safe (explicit)| 
-
-|                                                                                                                                                                                        | 3.  The user states that the price of the product is synonymous with the lifespan quality of that product(explicit)                           | 
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
-
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
-
-| "Just stopped working after 1 year. We make sure to remove the batteries when not in use and it is stored in its case in a cabinet. When we opened it today, there was a little bit of moisture in it and now it doesn't work." | 1.  The user states that moisture can destroy the products ability to function(explicit)                              | 
-
-|                                                                                                                                                                                        | 2.  The user states that is required to remove the power source when the product is not in use(explicit)| 
-
-|                                                                                                                                                                                        | 3.  The customer stores the product in its case when it is not in use, meaning that it doesn't get used often (implicit)                              | 
-
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              | 
-
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | 
-
-| "There is a delay when pushing the different buttons throughout the controls. 
-
-The most annoying thing is that when you push the “Wind” button to change the units for the wind meter, the units aren’t displayed for the (feet/min, knots, mph). 
-
-In other words, only the units are shown when on (m/sec, km/hr) but it does not display the units for the rest. So you don’t have a good idea of which units you’re measuring in. The overall accuracy of the device is ok." | 1.  The user states that there is an issue with displaying units for nonstandard units of measurement.(Explicit)                             | 
-
-|                                                                                                                                                                                        | 2.  The user states there is a delay in the controls (explicit) | 
-
-|                                                                                                                                                                                        | 3.  The user states that the ability to measure accurately could be better (implicit)                               | 
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "This item worked great for about 3 days and then it shuts off randomly, won’t turn on when I hold the power button unless I keep pressing the button over and over and sometimes it will turn on, usually it doesn’t no matter how hard I try. I’ve changed batteries twice now to see if that would help as sometimes batteries go bad, but that didn’t help. I guess you get what you pay for. Which stinks, because I really need this product for my trainings to make sure I can keep my athletes safe" | 1. The user states the ability to power on the device becomes inconsistent after a timeframe of 3 days (explicit). |
+| | 2. The user states that they need it to consistently work in order to keep others safe (explicit). |
+| | 3. The user states that the price of the product is synonymous with the lifespan quality of that product (explicit). |
+| "Just stopped working after 1 year. We make sure to remove the batteries when not in use and it is stored in its case in a cabinet. When we opened it today, there was a little bit of moisture in it and now it doesn't work." | 1. The user states that moisture can destroy the product's ability to function (explicit). |
+| | 2. The user states that it is required to remove the power source when the product is not in use (explicit). |
+| | 3. The customer stores the product in its case when it is not in use, meaning that it doesn't get used often (implicit). |
+| "There is a delay when pushing the different buttons throughout the controls. The most annoying thing is that when you push the “Wind” button to change the units for the wind meter, the units aren’t displayed for the (feet/min, knots, mph). In other words, only the units are shown when on (m/sec, km/hr) but it does not display the units for the rest. So you don’t have a good idea of which units you’re measuring in. The overall accuracy of the device is ok." | 1. The user states that there is an issue with displaying units for nonstandard units of measurement (explicit). |
+| | 2. The user states there is a delay in the controls (explicit). |
+| | 3. The user states that the ability to measure accurately could be better (implicit). |
 
 
 
