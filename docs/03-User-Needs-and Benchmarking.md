@@ -23,8 +23,6 @@ title: User Needs and Benchmarking
 
 #### Positive Comments
 
-#### Positive Comments
-
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
 | "This very small unit sits on a shelf ledge and assures me that I am meeting the state-standard 65 degree temperature reading in the house. Should my tenant complain, I can refer to state law as well as to this tiny gauge. The small size, with large, easily read numbers, makes for a fine product. I liked it so much that I bought a second one for the downstairs area of my home." | 1. The thermometer is compact and easy to place (explicit). |
@@ -115,17 +113,7 @@ title: User Needs and Benchmarking
 
 ### Search #3 
 
- 
-
- 
-
 **Keywords:** "heat stress monitor weather" 
-
- 
-
- 
-
- 
 
 **Search Results Link:** [https://a.co/d/03WsJ7ht](https://a.co/d/03WsJ7ht) 
 
