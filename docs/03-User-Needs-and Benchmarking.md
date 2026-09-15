@@ -542,7 +542,7 @@ Once all of the user-need statements were made through these 5 products, there s
 
 After individually grouping our need statements into the six different categories and combining duplicate needs, we came together to determine the order of importance for these categories. We began by taking a count on how many statements we had collectively in each category, and if one of the members had more/less statements in a category than another, we were given an opportunity to reason with each other as to why we believe that category belonged in its placement. A democratic vote was held afterwards during these minor disagreements, and there was one final check to see if the team agreed with the final placements. After the last overview, this was the outcome of the category rankings:
 
-![image](image/Screenshot%202026-09-14%213349.png)
+![image](image/Screenshot%202026-09-14%20213349.png)
 
 1. Reliability / Safety
 2. Maintenance / Setup
