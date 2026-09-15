@@ -287,7 +287,8 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 ## Organized Need Statements
 
 ### First Placement
-The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. In later sections, the full process of organizing these statements can be shown, as well as the final ranking of these needs. For now, these are all the statements that were collected:
+The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. Each of these sections will also include documentation through screenshots of what the process was like during our time organizing. For now, these are all the statements that were collected:
+
 
 1. The thermometer is compact and easy to place. *(Explicit)*
 2. The thermometer must have a sleek and easy-to-read interface. *(Explicit)*
@@ -395,7 +396,7 @@ The list below shows the 100+ statements initially collected throughout the docu
 
 
 ### Grouped with categories
-Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
+Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. Additionally, some statements that weren't made originally were created throughout the process of organizing the needs into their designated categories. By following this process, there was still a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
 
 ### Reliability / Safety
 
