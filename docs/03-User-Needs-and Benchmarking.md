@@ -289,6 +289,7 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 ### First Placement
 The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. Each of these sections will also include documentation through screenshots of what the process was like during our time organizing. For now, these are all the statements that were collected:
 
+![image](image/Screenshot%202026-09-14%16582.png)
 
 1. The thermometer is compact and easy to place. *(Explicit)*
 2. The thermometer must have a sleek and easy-to-read interface. *(Explicit)*
@@ -397,6 +398,8 @@ The list below shows the 100+ statements initially collected throughout the docu
 
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. Additionally, some statements that weren't made originally were created throughout the process of organizing the needs into their designated categories. By following this process, there was still a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
+
+![image](image/Screenshot%202026-09-14%20213421.png)
 
 ### Reliability / Safety
 
@@ -538,6 +541,8 @@ Once all of the user-need statements were made through these 5 products, there s
 ### Ranked
 
 After individually grouping our need statements into the six different categories and combining duplicate needs, we came together to determine the order of importance for these categories. We began by taking a count on how many statements we had collectively in each category, and if one of the members had more/less statements in a category than another, we were given an opportunity to reason with each other as to why we believe that category belonged in its placement. A democratic vote was held afterwards during these minor disagreements, and there was one final check to see if the team agreed with the final placements. After the last overview, this was the outcome of the category rankings:
+
+![image](image/Screenshot%202026-09-14%213349.png)
 
 1. Reliability / Safety
 2. Maintenance / Setup
