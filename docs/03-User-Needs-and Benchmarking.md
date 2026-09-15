@@ -395,11 +395,14 @@ The list below shows the 100+ statements initially collected throughout the docu
 102. The outdoor sensor should remain connected to the main unit. *(Explicit)*
 103. The product should provide enough value that users do not consider it a waste of money. *(Explicit)*
 
+*Statements from Product 1 were made on September 8th, 2026*
+*Statements from Product 2, 3, & 4 were made on September 13th, 2026*
+*Statements from Product 5 were made on September 14th, 2026*
 
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. Additionally, some statements that weren't made originally were created throughout the process of organizing the needs into their designated categories. By following this process, there was still a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
 
-![image](image/Screenshot%202026-09-14%20213421.png)
+![image](image/Screenshot%202026-09-13%20213421.png)
 
 ### Reliability / Safety
 
