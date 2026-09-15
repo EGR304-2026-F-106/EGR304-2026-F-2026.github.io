@@ -289,7 +289,7 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 ### First Placement
 The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. Each of these sections will also include documentation through screenshots of what the process was like during our time organizing. For now, these are all the statements that were collected:
 
-![image](image/Screenshot%202026-09-14%20165829.png)
+![image](image/Screenshot%202026-09-13%20165829.png)
 
 1. The thermometer is compact and easy to place. *(Explicit)*
 2. The thermometer must have a sleek and easy-to-read interface. *(Explicit)*
