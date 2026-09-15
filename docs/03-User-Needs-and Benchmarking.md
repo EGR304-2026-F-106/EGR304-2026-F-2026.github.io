@@ -288,7 +288,6 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 
 ### First Placement
 The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. In later sections, the full process of organizing these statements can be shown, as well as the final ranking of these needs. For now, these are all the statements that were collected:
-## First Placement
 
 1. The thermometer is compact and easy to place. *(Explicit)*
 2. The thermometer must have a sleek and easy-to-read interface. *(Explicit)*
@@ -398,51 +397,142 @@ The list below shows the 100+ statements initially collected throughout the docu
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
 
-### Category 1: Lighting & Display
+## Grouped with Categories
 
-**Meta Need:** The display of the thermometer is easy to understand. 
+### Reliability / Safety
 
-- XXXXXX
+**Meta Need:** The product provides accurate, dependable, and safe environmental information throughout its intended lifetime.
 
----
+- The product provides accurate temperature measurements that users can trust without secondary verification. *(Explicit)*
+- The product accurately reflects changes in environmental temperature. *(Latent)*
+- The product adjusts its measurements to temperature changes in a timely manner. *(Explicit)*
+- The product updates environmental readings rapidly and consistently. *(Explicit)*
+- The product allows users to determine when environmental temperatures become unsafe. *(Explicit)*
+- The product helps users avoid overheating in occupied spaces. *(Latent)*
+- The product helps protect temperature-sensitive equipment from unsafe environmental conditions. *(Latent)*
+- The product helps users regulate heating based on measured temperature. *(Explicit)*
+- The product allows users to determine whether temperature is evenly distributed across multiple locations. *(Latent)*
+- The product remains accurate under different environmental conditions, including rain. *(Explicit)*
+- The product accurately measures wind speed. *(Explicit)*
+- The product performs as well as or better than traditional environmental measuring devices. *(Explicit)*
+- The product operates reliably during outside interruptions. *(Latent)*
+- The product continues performing its core functions without an internet connection. *(Explicit)*
+- The product maintains a strong and reliable connection between its sensors and main observation unit. *(Explicit)*
+- The product provides sufficient sensor range for its intended environment. *(Explicit)*
+- The product supports reliable operation of multiple sensors at the same time. *(Explicit)*
+- The product does not generate false alarms. *(Explicit)*
+- The product provides a clear and identifiable reason whenever an alarm is activated. *(Explicit)*
+- The product operates consistently when user safety depends on its measurements. *(Explicit)*
+- The product has durable build quality. *(Explicit)*
+- The product resists loss of functionality caused by moisture. *(Explicit)*
+- The product prevents damaging moisture from entering sensitive components. *(Explicit)*
+- The product remains functional when exposed to high environmental temperatures. *(Explicit)*
+- The product has sufficient physical stability during use. *(Explicit)*
+- The product provides a long useful service life. *(Explicit)*
+- Units of the same product provide reasonably consistent lifespans. *(Latent)*
+- The product powers on consistently throughout its expected service life. *(Explicit)*
+- Individual component failures should not prevent the entire product from performing its intended function. *(Explicit)*
+- The product performs consistently during normal operation. *(Explicit)*
+- The product provides performance consistent with its advertised capabilities. *(Latent)*
+- The product records daily high and low temperature values for later reference. *(Explicit)*
+- The product shows whether temperature readings are rising, falling, or remaining steady over time. *(Explicit)*
+- The product allows measurements to be calibrated when necessary. *(Explicit)*
+- The outdoor sensor withstands normal exposure to rain and outdoor weather conditions. *(Explicit)*
+- The product preserves useful measurement history so users can compare current conditions with previous conditions. *(Latent)*
+- The product indicates freezing or frost conditions when temperatures approach unsafe low levels. *(Explicit)*
+- The product provides humidity measurements when environmental moisture is relevant. *(Explicit)*
 
-### Category 2: Reliability / Safety
 
-**Meta Need:** The thermometer can provide accurate readings and safely last for years to come.
+### Maintenance / Setup
 
-- XXXXXX
+**Meta Need:** The product is simple to install, configure, operate, troubleshoot, maintain, and store.
 
----
+- The product is compact and easy to place. *(Explicit)*
+- The product is easy to install. *(Explicit)*
+- Routine setup is simple and stress-free. *(Latent)*
+- The product is simple and easy to use. *(Latent)*
+- Sensors can be set up rapidly and consistently. *(Latent)*
+- The product requires little user intervention after its initial setup. *(Explicit)*
+- The product automatically configures basic information such as time and date. *(Explicit)*
+- The product can be mounted in a variety of environments. *(Explicit)*
+- The product requires minimal permanent mounting hardware. *(Latent)*
+- The product maintains its physical condition during setup and maintenance. *(Latent)*
+- The battery compartment is easy to access. *(Explicit)*
+- Product problems can be diagnosed quickly. *(Latent)*
+- The product user guide provides clear troubleshooting instructions. *(Explicit)*
+- Customer support can distinguish between hardware failure and problems that can be corrected through troubleshooting. *(Explicit)*
+- Customer support provides an appropriate replacement when a product or sensor fails. *(Explicit)*
+- Replacement components function properly after installation. *(Explicit)*
+- The product provides verification or self-correction capabilities. *(Latent)*
+- The product provides manual or automatic correction when adjustments are necessary. *(Latent)*
+- The product's controls respond without unnecessary delay. *(Explicit)*
+- The product can be conveniently and safely stored when not in use. *(Latent)*
+- Replacement sensors or compatible components are available when individual parts fail or require replacement. *(Latent)*
 
-### Category 3: Setup & Maintenance
 
-**Meta Need:** The device’s setup is effortless and only requires quick maintenance every now and then.
+### Lighting / Display
 
-- XXXXXX
----
+**Meta Need:** The product presents environmental information through an interface that is clear, readable, understandable, and visually appropriate.
 
-### Category 4: Customization
+- The product has a sleek and easy-to-read interface. *(Explicit)*
+- The display can be read without requiring the user to approach the product. *(Latent)*
+- The product has an aesthetically pleasing appearance. *(Explicit)*
+- The product provides a backlit display option. *(Explicit)*
+- The display remains readable in dark or unilluminated environments. *(Explicit)*
+- The display clearly identifies the units associated with every measurement. *(Explicit)*
+- The display clearly communicates environmental measurements to the user. *(Explicit)*
+- The product provides a low-battery warning before power becomes insufficient for normal operation. *(Explicit)*
+- The product indicates the strength or status of the wireless connection between the sensor and display. *(Explicit)*
+- The product allows the display brightness to be adjusted for different lighting conditions. *(Explicit)*
+- The product avoids creating excessive light in dark rooms during nighttime use. *(Latent)*
+- The product clearly distinguishes between indoor and outdoor measurements. *(Explicit)*
+- The product allows users to identify measurements from individual sensors without confusion between sensor locations. *(Latent)*
 
-**Meta Need:** The thermometer is customizable for multiple situations and uses.
 
-- XXXXXX
----
+### Customization
 
-### Category 5: Power Source
+**Meta Need:** The product can be configured to support different users, measurements, sensors, locations, and intended applications.
 
-**Meta Need:** The thermometer’s power source is simply constructed with little-to-no drawbacks.
+- The product allows users to customize features according to their preferences. *(Explicit)*
+- The product allows users to enable or disable unnecessary features. *(Latent)*
+- The product provides a customizable user interface. *(Explicit)*
+- Individual sensor channels can be configured by the user. *(Explicit)*
+- The product can identify and manage multiple sensor channels. *(Latent)*
+- The product supports multiple sensors through one main unit. *(Explicit)*
+- The product can expand to support additional sensors when needed. *(Explicit)*
+- The product supports conversion between multiple systems of measurement. *(Latent)*
+- The product provides access to additional data when requested by the user. *(Explicit)*
+- The product provides a useful range of environmental readings. *(Latent)*
+- The product provides analytical information from multiple environmental measurements. *(Latent)*
+- The product can support measurement points across different rooms or locations. *(Latent)*
+- The product can accommodate use by more than one person. *(Latent)*
+- The product can support multiple useful applications. *(Latent)*
+- Users can focus on the features relevant to their intended application without unnecessary complexity. *(Explicit)*
+- The product allows users to set custom temperature thresholds for alerts. *(Explicit)*
 
-- XXXXXX
 
----
+### Power Source
 
-### Category 6: Budget
+**Meta Need:** The product uses a dependable and convenient power system that supports continuous operation and simple power management.
 
-**Meta Need:** The thermometer’s price is reasonable and affordable for its features.
+- The product provides long battery life. *(Explicit)*
+- The product includes a backup power source. *(Explicit)*
+- The product uses reliable batteries. *(Explicit)*
+- The product allows its power source to be removed when the device is not in use. *(Explicit)*
+- The product retains important settings or information when normal power is temporarily interrupted. *(Latent)*
 
-- XXXXXX
 
----
+### Budget
+
+**Meta Need:** The product provides appropriate quality, performance, and longevity at a price users consider reasonable.
+
+- The product is offered at a reasonable and affordable price. *(Latent)*
+- The product provides good overall value for its price. *(Explicit)*
+- The product's performance is appropriate for its price. *(Latent)*
+- The product's build quality is appropriate for its price. *(Explicit)*
+- The product's lifespan is appropriate for its price. *(Explicit)*
+- The product provides enough value that users do not consider the purchase a waste of money. *(Explicit)*
+- The product provides enough overall value to be considered a worthwhile purchase or gift. *(Latent)*
 
 
 
