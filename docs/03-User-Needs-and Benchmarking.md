@@ -288,6 +288,112 @@ Versatile Outdoor Applications: This handheld anemometer is suitable for various
 
 ### First Placement
 The list below shows the 100+ statements initially collected throughout the documentation process. By no means is this a final ranking of each statement by importance, nor is it a true reflection of every statement being unique. In later sections, the full process of organizing these statements can be shown, as well as the final ranking of these needs. For now, these are all the statements that were collected:
+## First Placement
+
+1. The thermometer is compact and easy to place. *(Explicit)*
+2. The thermometer must have a sleek and easy-to-read interface. *(Explicit)*
+3. There should be multiple thermometers across multiple houses or rooms. *(Latent)*
+4. The thermometer should help protect equipment that is sensitive to heat. *(Latent)*
+5. The user can read the monitor without having to approach it. *(Latent)*
+6. The user can determine when the temperature is too high. *(Explicit)*
+7. The thermometer should help the user regulate the heater. *(Explicit)*
+8. The user wants to avoid overheating at home. *(Latent)*
+9. The user should be able to rely on the thermometer's accuracy rather than how the room feels. *(Latent)*
+10. The user needs to know if temperature is evenly distributed across their house. *(Latent)*
+11. The thermometer should tell the temperature. *(Explicit)*
+12. The thermometer should not require another way to verify its accuracy. *(Latent)*
+13. The thermometer reflects changes in actual room temperature. *(Latent)*
+14. The battery compartment should be easy to access. *(Explicit)*
+15. The product should maintain its original condition during setup and maintenance. *(Latent)*
+16. Routine setup should be stress-free. *(Latent)*
+17. The thermometer should adjust to temperature in a timely manner. *(Explicit)*
+18. The user needs problems to be diagnosed quickly. *(Latent)*
+19. Customer support needs to understand the difference between a failed product and a product that requires troubleshooting. *(Explicit)*
+20. The user wants an honest product from the start. *(Latent)*
+21. The product needs to be aesthetically pleasing. *(Latent)*
+22. The product should have customization options to enable or disable features when desired. *(Latent)*
+23. The screen should be bright and easy to read in unilluminated environments. *(Explicit)*
+24. The product should be small in size. *(Latent)*
+25. Rapid and consistent reading updates are desirable. *(Explicit)*
+26. The product should have verification or self-correction capabilities. *(Latent)*
+27. The product should be easy to set up. *(Explicit)*
+28. Product analytical tools should be holistic. *(Latent)*
+29. Long battery life is desirable. *(Explicit)*
+30. Strong and consistent connections between the station and sensors are desirable. *(Explicit)*
+31. The product should be capable of being mounted in a variety of environments. *(Explicit)*
+32. The product should be simple and easy to use. *(Latent)*
+33. The product should have a backlit option. *(Explicit)*
+34. Sensors need to have rapid and consistent setup times. *(Latent)*
+35. The product needs to have minimal permanent mounting methods, such as nails or screws. *(Latent)*
+36. Product sensor channels should be configurable. *(Explicit)*
+37. The product should have a customizable user interface. *(Explicit)*
+38. The product user guide should have clear troubleshooting instructions. *(Explicit)*
+39. The product needs to understand and convert between multiple systems of measurement. *(Latent)*
+40. The product needs to be able to discern between and self-manage its sensor channels. *(Latent)*
+41. The product should be hands-off after initial setup. *(Explicit)*
+42. The product needs to have manual or automatic correction features. *(Latent)*
+43. The product should last longer than nine months. *(Explicit)*
+44. Sensors should have reliable connections with the observation unit. *(Latent)*
+45. The user requires good build quality. *(Explicit)*
+46. The customer wants a range of readings. *(Latent)*
+47. The user mainly uses the product for only one of its features. *(Explicit)*
+48. The user finds the quality of the product to be exceptional. *(Explicit)*
+49. The user can find many uses for the product. *(Latent)*
+50. The customer can use the product with more than one person. *(Latent)*
+51. The user states that it is a good item for the price. *(Explicit)*
+52. The user uses the product enough to give it this review. *(Latent)*
+53. The user can tell the price-to-performance value. *(Latent)*
+54. The ability to power on the device should remain consistent over time. *(Explicit)*
+55. The product needs to consistently work in order to keep others safe. *(Explicit)*
+56. The price of the product should correspond with its lifespan and quality. *(Explicit)*
+57. Moisture should not destroy the product's ability to function. *(Explicit)*
+58. The power source should be removable when the product is not in use. *(Explicit)*
+59. The product can be stored in its case when it is not in use. *(Latent)*
+60. Units of measurement should be properly displayed for all measurement options. *(Explicit)*
+61. The controls should respond without unnecessary delay. *(Explicit)*
+62. The product's measurement accuracy could be improved. *(Latent)*
+63. The thermometer should be customizable for the user. *(Explicit)*
+64. The thermometer should have battery backup. *(Explicit)*
+65. The thermometer should be reliable during outside interruptions. *(Latent)*
+66. The thermometer should have good range. *(Explicit)*
+67. The programming can set up the time and date on its own. *(Explicit)*
+68. The program allows the user to look at extra data. *(Explicit)*
+69. The product should be set at a very reasonable price. *(Latent)*
+70. The product should still work without internet. *(Explicit)*
+71. The thermometer should remain accurate in different weather conditions, such as rain. *(Explicit)*
+72. The thermometer should maintain a reliable sensor connection with accurate readings. *(Latent)*
+73. The thermometer should not release false alarms. *(Explicit)*
+74. When an alarm is released, it should be for a known reason. *(Explicit)*
+75. The thermometer should properly track wind speed. *(Explicit)*
+76. Each product sold should provide a consistent lifespan. *(Latent)*
+77. The product should have longevity. *(Explicit)*
+78. The thermostat should be a gift worth receiving. *(Latent)*
+79. The thermometer should be heavy enough to stabilize itself. *(Explicit)*
+80. The thermometer should perform as well as or better than traditional weather readers. *(Explicit)*
+81. The thermometer's indoor unit should maintain its connection consistently. *(Explicit)*
+82. The thermometer should have reliable batteries. *(Explicit)*
+83. The device should be easy to install. *(Explicit)*
+84. The display should be visually pleasing. *(Explicit)*
+85. Backup power sources should be available. *(Explicit)*
+86. The device should have functionality to expand up to three sensors. *(Explicit)*
+87. The device should continue functioning properly over time. *(Explicit)*
+88. The device should work without issue during normal operation. *(Explicit)*
+89. Replacement units should function properly. *(Explicit)*
+90. The display should be easy to read. *(Explicit)*
+91. Multiple sensors should work properly together. *(Explicit)*
+92. A replacement should be available when a sensor stops working. *(Explicit)*
+93. The device should remain functional when exposed to high temperatures. *(Explicit)*
+94. Sensors should successfully connect to the base unit. *(Explicit)*
+95. Sensors should remain connected to the base unit. *(Explicit)*
+96. The device should otherwise operate as intended when connectivity is functioning. *(Explicit)*
+97. A single component failure should not prevent the product from performing its intended purpose. *(Explicit)*
+98. Temperature measurements should be accurate. *(Explicit)*
+99. The sensor should maintain its connection to the main unit. *(Explicit)*
+100. Moisture should not enter the unit and cause failure. *(Explicit)*
+101. The unit should last longer than two months. *(Explicit)*
+102. The outdoor sensor should remain connected to the main unit. *(Explicit)*
+103. The product should provide enough value that users do not consider it a waste of money. *(Explicit)*
+
 
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
