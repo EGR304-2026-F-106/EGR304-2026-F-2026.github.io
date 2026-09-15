@@ -397,8 +397,6 @@ The list below shows the 100+ statements initially collected throughout the docu
 ### Grouped with categories
 Once all of the user-need statements were made through these 5 products, there seemed to have been duplicate needs, which required the combination of a single user-need statement. By following this process, there was a total of 100 unique user-need statements, with each of them being categorized into 6 different categories, which can be shown here:
 
-## Grouped with Categories
-
 ### Reliability / Safety
 
 **Meta Need:** The product provides accurate, dependable, and safe environmental information throughout its intended lifetime.
@@ -552,105 +550,107 @@ After individually grouping our need statements into the six different categorie
 
 Below shows a chart of the 100 unique user-needs statements that were made earlier. Each statement will feature the category it belongs in, whether its implicit or explicit, and their total ranking on the list:
 
+## Ranked User Needs
+
 | # | Category | User Need Statement | Type |
 |---|---|---|---|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
-| 15 |  |  |  |
-| 16 |  |  |  |
-| 17 |  |  |  |
-| 18 |  |  |  |
-| 19 |  |  |  |
-| 20 |  |  |  |
-| 21 |  |  |  |
-| 22 |  |  |  |
-| 23 |  |  |  |
-| 24 |  |  |  |
-| 25 |  |  |  |
-| 26 |  |  |  |
-| 27 |  |  |  |
-| 28 |  |  |  |
-| 29 |  |  |  |
-| 30 |  |  |  |
-| 31 |  |  |  |
-| 32 |  |  |  |
-| 33 |  |  |  |
-| 34 |  |  |  |
-| 35 |  |  |  |
-| 36 |  |  |  |
-| 37 |  |  |  |
-| 38 |  |  |  |
-| 39 |  |  |  |
-| 40 |  |  |  |
-| 41 |  |  |  |
-| 42 |  |  |  |
-| 43 |  |  |  |
-| 44 |  |  |  |
-| 45 |  |  |  |
-| 46 |  |  |  |
-| 47 |  |  |  |
-| 48 |  |  |  |
-| 49 |  |  |  |
-| 50 |  |  |  |
-| 51 |  |  |  |
-| 52 |  |  |  |
-| 53 |  |  |  |
-| 54 |  |  |  |
-| 55 |  |  |  |
-| 56 |  |  |  |
-| 57 |  |  |  |
-| 58 |  |  |  |
-| 59 |  |  |  |
-| 60 |  |  |  |
-| 61 |  |  |  |
-| 62 |  |  |  |
-| 63 |  |  |  |
-| 64 |  |  |  |
-| 65 |  |  |  |
-| 66 |  |  |  |
-| 67 |  |  |  |
-| 68 |  |  |  |
-| 69 |  |  |  |
-| 70 |  |  |  |
-| 71 |  |  |  |
-| 72 |  |  |  |
-| 73 |  |  |  |
-| 74 |  |  |  |
-| 75 |  |  |  |
-| 76 |  |  |  |
-| 77 |  |  |  |
-| 78 |  |  |  |
-| 79 |  |  |  |
-| 80 |  |  |  |
-| 81 |  |  |  |
-| 82 |  |  |  |
-| 83 |  |  |  |
-| 84 |  |  |  |
-| 85 |  |  |  |
-| 86 |  |  |  |
-| 87 |  |  |  |
-| 88 |  |  |  |
-| 89 |  |  |  |
-| 90 |  |  |  |
-| 91 |  |  |  |
-| 92 |  |  |  |
-| 93 |  |  |  |
-| 94 |  |  |  |
-| 95 |  |  |  |
-| 96 |  |  |  |
-| 97 |  |  |  |
-| 98 |  |  |  |
-| 99 |  |  |  |
-| 100 |  |  |  |
+| 1 | Reliability / Safety | The product provides accurate temperature measurements that users can trust without secondary verification. | Explicit |
+| 2 | Reliability / Safety | The product operates consistently when user safety depends on its measurements. | Explicit |
+| 3 | Reliability / Safety | The product provides a long useful service life. | Explicit |
+| 4 | Reliability / Safety | The product has durable build quality. | Explicit |
+| 5 | Reliability / Safety | The product performs consistently during normal operation. | Explicit |
+| 6 | Reliability / Safety | The product maintains a strong and reliable connection between its sensors and main observation unit. | Explicit |
+| 7 | Reliability / Safety | The product remains accurate under different environmental conditions, including rain. | Explicit |
+| 8 | Reliability / Safety | The product does not generate false alarms. | Explicit |
+| 9 | Reliability / Safety | The product powers on consistently throughout its expected service life. | Explicit |
+| 10 | Reliability / Safety | The product resists loss of functionality caused by moisture. | Explicit |
+| 11 | Maintenance / Setup | Routine setup is simple and stress-free. | Latent |
+| 12 | Maintenance / Setup | The product is easy to install. | Explicit |
+| 13 | Maintenance / Setup | Sensors can be set up rapidly and consistently. | Latent |
+| 14 | Maintenance / Setup | The product requires little user intervention after its initial setup. | Explicit |
+| 15 | Reliability / Safety | The product adjusts its measurements to temperature changes in a timely manner. | Explicit |
+| 16 | Reliability / Safety | The product updates environmental readings rapidly and consistently. | Explicit |
+| 17 | Reliability / Safety | The product allows users to determine when environmental temperatures become unsafe. | Explicit |
+| 18 | Reliability / Safety | The product remains functional when exposed to high environmental temperatures. | Explicit |
+| 19 | Reliability / Safety | The product prevents damaging moisture from entering sensitive components. | Explicit |
+| 20 | Reliability / Safety | The outdoor sensor withstands normal exposure to rain and outdoor weather conditions. | Explicit |
+| 21 | Reliability / Safety | The product operates reliably during outside interruptions. | Latent |
+| 22 | Reliability / Safety | Individual component failures should not prevent the entire product from performing its intended function. | Explicit |
+| 23 | Reliability / Safety | Units of the same product provide reasonably consistent lifespans. | Latent |
+| 24 | Reliability / Safety | The product supports reliable operation of multiple sensors at the same time. | Explicit |
+| 25 | Reliability / Safety | The product provides sufficient sensor range for its intended environment. | Explicit |
+| 26 | Reliability / Safety | The product continues performing its core functions without an internet connection. | Explicit |
+| 27 | Reliability / Safety | The product provides a clear and identifiable reason whenever an alarm is activated. | Explicit |
+| 28 | Maintenance / Setup | The product is simple and easy to use. | Latent |
+| 29 | Maintenance / Setup | Product problems can be diagnosed quickly. | Latent |
+| 30 | Maintenance / Setup | The product user guide provides clear troubleshooting instructions. | Explicit |
+| 31 | Maintenance / Setup | The product provides verification or self-correction capabilities. | Latent |
+| 32 | Maintenance / Setup | The product provides manual or automatic correction when adjustments are necessary. | Latent |
+| 33 | Maintenance / Setup | The battery compartment is easy to access. | Explicit |
+| 34 | Maintenance / Setup | The product's controls respond without unnecessary delay. | Explicit |
+| 35 | Reliability / Safety | The product accurately reflects changes in environmental temperature. | Latent |
+| 36 | Reliability / Safety | The product allows measurements to be calibrated when necessary. | Explicit |
+| 37 | Reliability / Safety | The product helps protect temperature-sensitive equipment from unsafe environmental conditions. | Latent |
+| 38 | Reliability / Safety | The product helps users avoid overheating in occupied spaces. | Latent |
+| 39 | Reliability / Safety | The product helps users regulate heating based on measured temperature. | Explicit |
+| 40 | Reliability / Safety | The product allows users to determine whether temperature is evenly distributed across multiple locations. | Latent |
+| 41 | Reliability / Safety | The product indicates freezing or frost conditions when temperatures approach unsafe low levels. | Explicit |
+| 42 | Reliability / Safety | The product provides humidity measurements when environmental moisture is relevant. | Explicit |
+| 43 | Reliability / Safety | The product accurately measures wind speed. | Explicit |
+| 44 | Reliability / Safety | The product performs as well as or better than traditional environmental measuring devices. | Explicit |
+| 45 | Reliability / Safety | The product has sufficient physical stability during use. | Explicit |
+| 46 | Reliability / Safety | The product provides performance consistent with its advertised capabilities. | Latent |
+| 47 | Reliability / Safety | The product records daily high and low temperature values for later reference. | Explicit |
+| 48 | Reliability / Safety | The product shows whether temperature readings are rising, falling, or remaining steady over time. | Explicit |
+| 49 | Reliability / Safety | The product preserves useful measurement history so users can compare current conditions with previous conditions. | Latent |
+| 50 | Maintenance / Setup | The product is compact and easy to place. | Explicit |
+| 51 | Maintenance / Setup | The product automatically configures basic information such as time and date. | Explicit |
+| 52 | Maintenance / Setup | The product can be mounted in a variety of environments. | Explicit |
+| 53 | Maintenance / Setup | The product requires minimal permanent mounting hardware. | Latent |
+| 54 | Maintenance / Setup | The product maintains its physical condition during setup and maintenance. | Latent |
+| 55 | Maintenance / Setup | Customer support can distinguish between hardware failure and problems that can be corrected through troubleshooting. | Explicit |
+| 56 | Maintenance / Setup | Customer support provides an appropriate replacement when a product or sensor fails. | Explicit |
+| 57 | Maintenance / Setup | Replacement components function properly after installation. | Explicit |
+| 58 | Maintenance / Setup | Replacement sensors or compatible components are available when individual parts fail or require replacement. | Latent |
+| 59 | Maintenance / Setup | The product can be conveniently and safely stored when not in use. | Latent |
+| 60 | Lighting / Display | The product has a sleek and easy-to-read interface. | Explicit |
+| 61 | Lighting / Display | The display clearly communicates environmental measurements to the user. | Explicit |
+| 62 | Lighting / Display | The display can be read without requiring the user to approach the product. | Latent |
+| 63 | Lighting / Display | The display remains readable in dark or unilluminated environments. | Explicit |
+| 64 | Lighting / Display | The product provides a backlit display option. | Explicit |
+| 65 | Lighting / Display | The product allows the display brightness to be adjusted for different lighting conditions. | Explicit |
+| 66 | Lighting / Display | The product avoids creating excessive light in dark rooms during nighttime use. | Latent |
+| 67 | Lighting / Display | The display clearly identifies the units associated with every measurement. | Explicit |
+| 68 | Lighting / Display | The product clearly distinguishes between indoor and outdoor measurements. | Explicit |
+| 69 | Lighting / Display | The product allows users to identify measurements from individual sensors without confusion between sensor locations. | Latent |
+| 70 | Lighting / Display | The product provides a low-battery warning before power becomes insufficient for normal operation. | Explicit |
+| 71 | Lighting / Display | The product indicates the strength or status of the wireless connection between the sensor and display. | Explicit |
+| 72 | Lighting / Display | The product has an aesthetically pleasing appearance. | Explicit |
+| 73 | Customization | The product allows users to customize features according to their preferences. | Explicit |
+| 74 | Customization | Users can focus on the features relevant to their intended application without unnecessary complexity. | Explicit |
+| 75 | Customization | The product provides access to additional data when requested by the user. | Explicit |
+| 76 | Customization | The product provides a useful range of environmental readings. | Latent |
+| 77 | Customization | The product provides analytical information from multiple environmental measurements. | Latent |
+| 78 | Customization | The product allows users to set custom temperature thresholds for alerts. | Explicit |
+| 79 | Customization | The product allows users to enable or disable unnecessary features. | Latent |
+| 80 | Customization | The product provides a customizable user interface. | Explicit |
+| 81 | Customization | The product supports conversion between multiple systems of measurement. | Latent |
+| 82 | Customization | Individual sensor channels can be configured by the user. | Explicit |
+| 83 | Customization | The product can identify and manage multiple sensor channels. | Latent |
+| 84 | Customization | The product supports multiple sensors through one main unit. | Explicit |
+| 85 | Customization | The product can expand to support additional sensors when needed. | Explicit |
+| 86 | Customization | The product can support measurement points across different rooms or locations. | Latent |
+| 87 | Customization | The product can accommodate use by more than one person. | Latent |
+| 88 | Customization | The product can support multiple useful applications. | Latent |
+| 89 | Power Source | The product provides long battery life. | Explicit |
+| 90 | Power Source | The product uses reliable batteries. | Explicit |
+| 91 | Power Source | The product includes a backup power source. | Explicit |
+| 92 | Power Source | The product retains important settings or information when normal power is temporarily interrupted. | Latent |
+| 93 | Power Source | The product allows its power source to be removed when the device is not in use. | Explicit |
+| 94 | Budget | The product provides good overall value for its price. | Explicit |
+| 95 | Budget | The product's performance is appropriate for its price. | Latent |
+| 96 | Budget | The product's lifespan is appropriate for its price. | Explicit |
+| 97 | Budget | The product's build quality is appropriate for its price. | Explicit |
+| 98 | Budget | The product is offered at a reasonable and affordable price. | Latent |
+| 99 | Budget | The product provides enough value that users do not consider the purchase a waste of money. | Explicit |
+| 100 | Budget | The product provides enough overall value to be considered a worthwhile purchase or gift. | Latent |
