@@ -1,7 +1,7 @@
 ---
 title: User Needs and Benchmarking
 ---
-## Voice of the Customer Benchmarking Example
+## Voice of the Customer Benchmarking
 
 ### Search #1
 
