@@ -8,23 +8,26 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-* **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-* **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-* **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-* **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+* **Target group** Average-income working class individuals between the age of 18 and 65. Their personalities are hard-working and cautious. The main benefits sought are self-care and heat awareness.
+* **Target purchaser** Target group profile with special attention to BTMeter, Acurite products, or other popular weather tracking devices.
+* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with HeatSmith's quick and easy maintenance/troubleshooting.
+* **Marketing & Sales division** Looks for unique, but upfront selling points around the HeatSmith's reliability and customization to meet tailored customer needs.
+* **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging. This also includes having the Heatsmith fit in their packaging comfortably without uneven distribution of its weight.
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Carlos
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Carlos is a 45-year-old blue-collar worker who enjoys doing projects at home for his family. The weather is often hot in Arizona, but it is crucial that he starts to take better care of his body to avoid heat stroke. Even if it doesn't feel hot to him, it's still important that he knows when it's time to go inside or to take a break. His new HeatSmith device allows him to track his own body temperature to see if he's at risk of any fever, and can even place the HeatSmith outside and switch it to "outdoor" mode, where it tracks the general temperature outside. He also finds it handy that the HeatSmith has a simple band that detaches from his arm, and can be folded into itself so the device can stabilize on any surface.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Because Carlos is getting older and realizes he can't be out in the sun all the time, he's grateful for the HeatSmith since it's been helping him manage his health and appreciates the variety of modes it has to inform him about the conditions he works with.  
 
 ### User Story #2
 
-...
+Megan is a 21-year-old college athlete that enjoys playing Women's Soccer for her school. Although she loves to be active, her apartment hasn't provided the greatest air conditioning and it always seems like she's constantly sweating whether she's studying at home, or playing her favorite sport. Instead of having to guess when the temperature is too hot for her and taking too long to realize HVAC should come to visit, the HeatSmith tells her the truth about the environments she's constantly dealing with.
+
+With the HeatSmith indicating when the temperature at home is too high, she takes better care of herself by going to the nearest coffee shop to study and stay cool during the summer. By the time her air conditioning is fixed, Megan's apartment becomes a good place to cool off from soccer practice and plans to keep the HeatSmith in her home to tell her how the temperature is. 
+
 
 ## Aspects
 
