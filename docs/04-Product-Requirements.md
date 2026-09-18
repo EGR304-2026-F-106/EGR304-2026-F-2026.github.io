@@ -4,7 +4,7 @@ title: Product Requirements
 
 ## Project Objective
 
-This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
+This project aims to become an accessible tool to help many people of all ages to control their activity in high-temperature environments and to help avoid any health complications from occurring. By creating a product that uses a compact, but simple and convenient interface, the HeatSmith offers simplicity with highly customizable options to tailer the needs of any user. Whether the HeatSmith is used indoors, outdoors, or for your own body temperature, this device will provide accurate results that signal when an environment presents danger to the user. 
 
 ## Stakeholders
 
