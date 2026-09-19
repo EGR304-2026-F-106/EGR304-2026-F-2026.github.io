@@ -33,14 +33,17 @@ With the HeatSmith indicating when the temperature at home is too high, she take
 
 The new product design will be based on that of the Newentor Weather Station with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producer Design**
+1. **Product Design**
    * 1.1 The product shall be visually easy to distinguish from existing Products as well as main competitors, Newentor Weather Station, BTMeter, Acurite products, or other popular weather tracking devices. (P10)
    * 1.2 The product shall be easy to recognize as a team106 product without needing a logo on its exterior. (P10)
    * 1.3. The product shall avoid Looking similar to most of the products on the market (P10)
+   * 1.4. The product shall remain functional after an accidental drop (i.e. - 3ft drop onto a hard surface). 
+    * 1.5. The product's ambient sensoring shall operate over a range of 0°F - 130°F
   
 2. **Functionality**
       * 2.1 The product shall incorporate one or more proximity sensors to detect heat. (P10)
       * 2.2 The product shall offer a way to display the heat (P10)
+      
 3. **Interactivity & User Experience**
 
 4. **Customization**
