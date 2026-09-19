@@ -22,7 +22,7 @@ Carlos is a 45-year-old blue-collar worker who enjoys doing projects at home for
 
 Because Carlos is getting older and realizes he can't be out in the sun all the time, he's grateful for the HeatSmith since it's been helping him manage his health and appreciates the variety of modes it has to inform him about the conditions he works with.  
 
-### User Story #2
+### User Story #2: Megan
 
 Megan is a 21-year-old college athlete that enjoys playing Women's Soccer for her school. Although she loves to be active, her apartment hasn't provided the greatest air conditioning and it always seems like she's constantly sweating whether she's studying at home, or playing her favorite sport. Instead of having to guess when the temperature is too hot for her and taking too long to realize HVAC should come to visit, the HeatSmith tells her the truth about the environments she's constantly dealing with.
 
