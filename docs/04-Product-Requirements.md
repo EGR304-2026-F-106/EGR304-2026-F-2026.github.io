@@ -4,7 +4,7 @@ title: Product Requirements
 
 ## Project Objective
 
-This project aims to become an accessible tool to help many people of all ages to control their activity in high-temperature environments and to help avoid any health complications from occurring. By creating a product that uses a compact, but simple and convenient interface, the HeatSmith offers simplicity with highly customizable options to tailer the needs of any user. Whether the HeatSmith is used indoors, outdoors, or for your own body temperature, this device will provide accurate results that signal when an environment presents danger to the user. 
+The HeatSmith aims to become an accessible tool to help people of all ages manage their activity in high-temperature environments and reduce the risk of heat-related health complications. By designing, building, and testing a product that uses a compact, but clean and convenient interface, the HeatSmith will provide accurate temperatures with audible warnings when a predefined temperature threshold is met. Whether the HeatSmith is used for ambient or surface body temperature monitoring, users will have the opportunity to customize their device to accommodate various preferences and environments. By the completion of this project, the Heatsmith will be capable of measuring temperature accuracy within ±1-2°F, processing measured data through its microcontroller, and notifying the user once the conditions for a predefined hazardous temperature threshold have been reached.
 
 ## Stakeholders
 
@@ -18,7 +18,7 @@ This project aims to become an accessible tool to help many people of all ages t
 
 ### User Story #1: Carlos
 
-Carlos is a 45-year-old blue-collar worker who enjoys doing projects at home for his family. The weather is often hot in Arizona, but it is crucial that he starts to take better care of his body to avoid heat stroke. Even if it doesn't feel hot to him, it's still important that he knows when it's time to go inside or to take a break. His new HeatSmith device allows him to track his own body temperature to see if he's at risk of any fever, and can even place the HeatSmith outside and switch it to "outdoor" mode, where it tracks the general temperature outside. He also finds it handy that the HeatSmith has a simple band that detaches from his arm, and can be folded into itself so the device can stabilize on any surface.
+Carlos is a 45-year-old blue-collar worker who enjoys doing projects at home for his family. The weather is often hot in Arizona, but it is crucial that he starts to take better care of his body to avoid heat stroke. Even if it doesn't feel hot to him, it's still important that he knows when it's time to go inside or to take a break. His new HeatSmith device allows him to track surface body temperature to see if he's at risk of any danger, and can even place the HeatSmith outside and switch it to "outdoor" mode, where it tracks the general temperature outside. He also finds it handy that the HeatSmith has a simple band that detaches from his arm, and can be folded into itself so the device can stabilize on any surface.
 
 Because Carlos is getting older and realizes he can't be out in the sun all the time, he's grateful for the HeatSmith since it's been helping him manage his health and appreciates the variety of modes it has to inform him about the conditions he works with.  
 
