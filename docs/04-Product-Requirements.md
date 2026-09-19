@@ -35,12 +35,19 @@ The new product design will be based on that of the Newentor Weather Station wit
 
 1. **Producer Design**
    * 1.1 The product shall be visually easy to distinguish from existing Products as well as main competitors, Newentor Weather Station, BTMeter, Acurite products, or other popular weather tracking devices. (P10)
-   * 1.1 The product shall be easy to recognize as a team106 product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid Looking similar to most of the products on the market (P10)
+   * 1.2 The product shall be easy to recognize as a team106 product without needing a logo on its exterior. (P10)
+   * 1.3. The product shall avoid Looking similar to most of the products on the market (P10)
   
-1. **Functionality**
+2. **Functionality**
       * 2.1 The product shall incorporate one or more proximity sensors to detect heat. (P10)
       * 2.2 The product shall offer a way to display the heat (P10)
+3. **Interactivity & User Experience**
+
+4. **Customization**
+
+5. **Manufacturing**
+
+6. **Safety**
 
 ## Requirement Criteria Specifications
 
