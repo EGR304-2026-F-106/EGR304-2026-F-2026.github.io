@@ -31,21 +31,21 @@ With the HeatSmith indicating when the temperature at home is too high, she take
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The new product design will be based on that of the Newentor Weather Station with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Producer Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+   * 1.1 The product shall be visually easy to distinguish from existing Products as well as main competitors, Newentor Weather Station, BTMeter, Acurite products, or other popular weather tracking devices. (P10)
+   * 1.1 The product shall be easy to recognize as a team106 product without needing a logo on its exterior. (P10)
+   * 1.2. The product shall avoid Looking similar to most of the products on the market (P10)
   
 1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+      * 2.1 The product shall incorporate one or more proximity sensors to detect heat. (P10)
+      * 2.2 The product shall offer a way to display the heat (P10)
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1.1.1 A 5V Linear Regulator, Barrel Jack adapter for your 9V power supply
+* 1.1.2 - a Microchip PIC18F57Q43 Curiosity Nano Development Board
 
 ## Open Questions
 
