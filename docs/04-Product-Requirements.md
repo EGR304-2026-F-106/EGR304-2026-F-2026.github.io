@@ -35,22 +35,33 @@ The new product design will be based on that of the Newentor Weather Station wit
 
 1. **Product Design**
    * 1.1 The product shall be visually easy to distinguish from existing Products as well as main competitors, Newentor Weather Station, BTMeter, Acurite products, or other popular weather tracking devices. (P10)
-   * 1.2 The product shall be easy to recognize as a team106 product without needing a logo on its exterior. (P10)
+   * 1.2 The product shall be easy to recognize as a Team 106 product without needing a logo on its exterior. (P10)
    * 1.3. The product shall avoid Looking similar to most of the products on the market (P10)
    * 1.4. The product shall remain functional after an accidental drop (i.e. - 3ft drop onto a hard surface). 
-    * 1.5. The product's ambient sensoring shall operate over a range of 0°F - 130°F
+   * 1.5. The product's ambient sensoring shall operate over a range of 0°F - 130°F
   
 2. **Functionality**
-      * 2.1 The product shall incorporate one or more proximity sensors to detect heat. (P10)
+      * 2.1 The product shall incorporate one or more temperature sensors to detect heat. (P10)
       * 2.2 The product shall offer a way to display the heat (P10)
+      * 2.3 The product shall provide an audible warning when a predefined temperature threshold is reached. (P10)
+      * 2.4 The product shall provide separate modes for ambient and surface-body temperature monitoring. (P9)
+      * 2.5 The product shall begin warning the user within 2 seconds of detecting a predefined hazardous temperature condition. (P9)
       
 3. **Interactivity & User Experience**
+
 
 4. **Customization**
 
 5. **Manufacturing**
 
 6. **Safety**
+
+*6.1 The product shall not display an invalid temperature measurement as a valid safe temperature. (P10)
+*6.2 The product shall notify the user if the temperature sensor fails or becomes disconnected. (P10)
+*6.3 The product shall remain safe to handle throughout its specified operating temperature range. (P10)
+*6.4 The product enclosure shall prevent users from accidentally contacting exposed electrical connections during normal operation. (P10)
+*6.5 The product shall not claim that a temperature measurement represents a medical diagnosis. (P9)
+*6.6 The product shall prevent unsafe battery or electrical conditions during normal operation and charging. (P10)
 
 ## Requirement Criteria Specifications
 
