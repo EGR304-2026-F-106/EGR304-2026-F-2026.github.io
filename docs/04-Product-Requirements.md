@@ -33,53 +33,59 @@ With the HeatSmith indicating when the temperature at home is too high, she take
 
 The new product design will be based on that of the Newentor Weather Station with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Product Design**
-   * 1.1 The product shall be visually easy to distinguish from existing products and major competitors such as Newentor Weather Stations, BTMeter, AcuRite products, and other popular temperature-tracking devices. (P10)
-   * 1.2 The product shall be easy to recognize as a Team 106 product without requiring a logo on its exterior. (P8)
-   * 1.3 The product shall avoid closely resembling common weather-monitoring products already on the market. (P8)
-   * 1.4 The product shall remain functional after an accidental 3 ft drop onto a hard surface. (P8)
-   * 1.5 The product's ambient temperature sensor shall operate over a range of 0°F to 130°F. (P10)
-   * 1.6 The product shall provide access to all necessary buttons, sensors, displays, and charging connections. (P9)
+## 1. Product Design
 
-2. **Functionality**
-   * 2.1 The product shall incorporate one or more temperature or infrared sensors to detect ambient or surface temperature. (P10)
-   * 2.2 The product shall provide a way to display the measured temperature. (P10)
-   * 2.3 The product shall measure temperature within ±1-2°F accuracy under normal operating conditions. (P10)
-   * 2.4 The product shall provide an audible warning when a predefined temperature threshold is reached. (P10)
-   * 2.5 The product shall process temperature measurements through its microcontroller. (P10)
+- 1.1 The product shall be visually easy to distinguish from existing products and major competitors such as Newentor Weather Stations, BTMeter, AcuRite products, and other popular temperature-tracking devices. (P10)
+- 1.2 The product shall be easy to recognize as a Team 106 product without requiring a logo on its exterior. (P8)
+- 1.3 The product shall avoid closely resembling common weather-monitoring products already on the market. (P8)
+- 1.4 The product shall remain functional after an accidental 3 ft drop onto a hard surface. (P8)
+- 1.5 The product's ambient temperature sensor shall operate over a range of 0°F to 130°F. (P10)
+- 1.6 The product shall provide access to all necessary buttons, sensors, displays, and charging connections. (P9)
 
-3. **Interactivity & User Experience**
-   * 3.1 The product shall display the current measured temperature in a clear and readable format. (P10)
-   * 3.2 The product shall allow the user to understand its basic functions without requiring extensive instructions. (P9)
-   * 3.3 The product shall use simple controls that can be operated by users of different ages. (P9)
-   * 3.4 The product shall provide a clear indication when a hazardous temperature threshold has been reached. (P10)
-   * 3.5 The product should display its current battery or power status. (P7)
-   * 3.6 The product shall allow users to switch between Fahrenheit and Celsius. (P7)
+## 2. Functionality
 
-4. **Customization**
-   * 4.1 The product shall allow users to adjust the temperature threshold used to activate warnings. (P10)
-   * 4.2 The product shall allow ambient and surface-body modes to use different temperature thresholds. (P9)
-   * 4.3 The product should allow users to customize available display settings. (P6)
-   * 4.4 The product should allow users to adjust available warning or alarm settings. (P7)
-   * 4.5 The product shall prevent users from selecting warning thresholds outside the acceptable programmed range. (P9)
-   * 4.6 The product should retain the user's selected settings after the device has been powered off. (P7)
+- 2.1 The product shall incorporate one or more temperature or infrared sensors to detect ambient or surface temperature. (P10)
+- 2.2 The product shall provide a way to display the measured temperature. (P10)
+- 2.3 The product shall measure temperature within ±1–2°F accuracy under normal operating conditions. (P10)
+- 2.4 The product shall provide an audible warning when a predefined temperature threshold is reached. (P10)
+- 2.5 The product shall process temperature measurements through its microcontroller. (P10)
 
-5. **Manufacturing**
-   * 5.1 The product shall use components that are commercially available and reasonably easy to obtain. (P8)
-   * 5.2 The product shall remain within the team's established manufacturing and component budget. (P9)
-   * 5.3 The product shall be designed so that its PCB and enclosure can be assembled without requiring major modifications after manufacturing. (P8)
-   * 5.4 Each completed product shall be tested before being considered ready for use. (P10)
-   * 5.5 Multiple manufactured products shall be capable of meeting the same temperature accuracy requirements. (P9)
-   * 5.6 The product shall allow critical components to be replaced without requiring replacement of the entire device whenever practical. (P6)
+## 3. Interactivity & User Experience
 
-6. **Safety**
-   * 6.1 The product shall not display an invalid temperature measurement as a valid safe temperature. (P10)
-   * 6.2 The product shall notify the user if the temperature sensor fails or becomes disconnected. (P10)
-   * 6.3 The product shall clearly identify whether a displayed temperature represents ambient or surface-body temperature. (P10)
-   * 6.4 The product shall remain safe to handle throughout its specified operating temperature range. (P10)
-   * 6.5 The product enclosure shall prevent users from accidentally contacting exposed electrical connections during normal operation. (P10)
-   * 6.6 The product shall not claim that a temperature measurement represents a medical diagnosis. (P9)
-   * 6.7 The product shall prevent unsafe battery or electrical conditions during normal operation and charging. (P10)
+- 3.1 The product shall display the current measured temperature in a clear and readable format. (P10)
+- 3.2 The product shall allow the user to understand its basic functions without requiring extensive instructions. (P9)
+- 3.3 The product shall use simple controls that can be operated by users of different ages. (P9)
+- 3.4 The product shall provide a clear indication when a hazardous temperature threshold has been reached. (P10)
+- 3.5 The product should display its current battery or power status. (P7)
+- 3.6 The product shall allow users to switch between Fahrenheit and Celsius. (P7)
+
+## 4. Customization
+
+- 4.1 The product shall allow users to adjust the temperature threshold used to activate warnings. (P10)
+- 4.2 The product shall allow ambient and surface-body modes to use different temperature thresholds. (P9)
+- 4.3 The product should allow users to customize available display settings. (P6)
+- 4.4 The product should allow users to adjust available warning or alarm settings. (P7)
+- 4.5 The product shall prevent users from selecting warning thresholds outside the acceptable programmed range. (P9)
+- 4.6 The product should retain the user's selected settings after the device has been powered off. (P7)
+
+## 5. Manufacturing
+
+- 5.1 The product shall use components that are commercially available and reasonably easy to obtain. (P8)
+- 5.2 The product shall remain within the team's established manufacturing and component budget. (P9)
+- 5.3 The product shall be designed so that its PCB and enclosure can be assembled without requiring major modifications after manufacturing. (P8)
+- 5.4 Each completed product shall be tested before being considered ready for use. (P10)
+- 5.5 Multiple manufactured products shall be capable of meeting the same temperature accuracy requirements. (P9)
+- 5.6 The product shall allow critical components to be replaced without requiring replacement of the entire device whenever practical. (P6)
+
+## 6. Safety
+
+- 6.1 The product shall not display an invalid temperature measurement as a valid safe temperature. (P10)
+- 6.2 The product shall notify the user if the temperature sensor fails or becomes disconnected. (P10)
+- 6.3 The product shall clearly identify whether a displayed temperature represents ambient or surface-body temperature. (P10)
+- 6.4 The product shall remain safe to handle throughout its specified operating temperature range. (P10)
+- 6.5 The product enclosure shall prevent users from accidentally contacting exposed electrical connections during normal operation. (P10)
+- 6.6 The product shall not claim that a temperature measurement represents a medical diagnosis. (P9)
+- 6.7 The product shall prevent unsafe battery or electrical conditions during normal operation and charging. (P10)
 
 ## Requirement Criteria Specifications
 
