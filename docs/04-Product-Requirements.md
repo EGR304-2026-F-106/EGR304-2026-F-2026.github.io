@@ -83,8 +83,50 @@ The new product design will be based on that of the Newentor Weather Station wit
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 A 5V Linear Regulator, Barrel Jack adapter for your 9V power supply
-* 1.1.2 - a Microchip PIC18F57Q43 Curiosity Nano Development Board
+| ID | Category | Requirement Criteria Specification | Verification |
+| --- | --- | --- | --- |
+| 1.1 | Product Design | The completed enclosure shall securely contain all electronic components without exposed internal wiring. | Inspection |
+| 1.2 | Product Design | The completed product shall remain fully functional after a 3 ft drop onto a hard surface. | Test |
+| 1.3 | Product Design | The completed product shall allow access to all buttons, sensors, displays, and power connections without opening the enclosure. | Inspection |
+| 1.4 | Product Design | The completed product shall be compact enough to be carried by hand during normal use. | Demonstration |
+| 1.5 | Product Design | The product shall be visually distinguishable from Newentor, BTMeter, AcuRite, and other comparable temperature-monitoring products. | Inspection |
+| 2.1 | Temperature Measurement | The ambient temperature sensing system shall operate from 0°F to 130°F. | Test |
+| 2.2 | Temperature Measurement | Ambient temperature measurements shall remain within ±2°F of a calibrated reference throughout the specified operating range. | Test |
+| 2.3 | Temperature Measurement | Surface-body temperature measurements shall remain within the specified accuracy range of the selected sensor. | Test |
+| 2.4 | Temperature Measurement | The device shall update the displayed temperature at least once every second during normal operation. | Test |
+| 2.5 | Temperature Measurement | The device shall identify readings outside the valid measurement range rather than displaying them as valid temperatures. | Test |
+| 3.1 | Functionality | The device shall provide separate Ambient and Surface Body operating modes. | Demonstration |
+| 3.2 | Functionality | The microcontroller shall receive and process temperature measurements from the selected sensor. | Test |
+| 3.3 | Functionality | The device shall compare the measured temperature to the active warning threshold. | Test |
+| 3.4 | Functionality | The device shall activate its warning system within 2 seconds after the active temperature threshold is reached. | Test |
+| 3.5 | Functionality | The device shall continue monitoring temperature while a warning condition is active. | Demonstration |
+| 4.1 | Display and User Interaction | The display shall show the current measured temperature during normal operation. | Demonstration |
+| 4.2 | Display and User Interaction | The display shall indicate whether Ambient Mode or Surface Body Mode is active. | Demonstration |
+| 4.3 | Display and User Interaction | The user shall be able to switch between Fahrenheit and Celsius. | Demonstration |
+| 4.4 | Display and User Interaction | The user shall be able to identify a hazardous-temperature warning without navigating through additional menus. | Demonstration |
+| 4.5 | Display and User Interaction | The device shall provide a visible indication of its current power or battery status. | Inspection |
+| 5.1 | Customization | The user shall be able to adjust the warning temperature threshold through the device controls. | Demonstration |
+| 5.2 | Customization | Ambient Mode and Surface Body Mode shall support separate warning thresholds. | Demonstration |
+| 5.3 | Customization | The device shall reject warning-threshold values outside the programmed allowable range. | Test |
+| 5.4 | Customization | User-selected settings shall remain stored after the device is powered off and restarted. | Test |
+| 6.1 | Audible Warning | The device shall produce an audible warning when the active temperature threshold is reached. | Test |
+| 6.2 | Audible Warning | The warning shall be distinguishable from normal device operation. | Demonstration |
+| 6.3 | Audible Warning | The audible warning shall remain active until the warning condition is removed or acknowledged by the user. | Test |
+| 7.1 | Power System | The power system shall accept the selected 9V input without damaging connected components. | Test |
+| 7.2 | Power System | The voltage-regulation circuit shall provide the required operating voltage to the microcontroller and peripheral components. | Test |
+| 7.3 | Power System | The power system shall supply sufficient current while the microcontroller, display, sensor, and warning system operate simultaneously. | Analysis / Test |
+| 7.4 | Power System | The device shall provide a user-accessible method of turning the system on and off. | Demonstration |
+| 8.1 | Manufacturing and Assembly | All production components shall be identifiable by manufacturer and part number. | Inspection |
+| 8.2 | Manufacturing and Assembly | The PCB shall provide electrical connections for the microcontroller, temperature sensor, display, controls, warning system, and power circuitry. | Inspection |
+| 8.3 | Manufacturing and Assembly | The PCB and enclosure shall assemble without requiring destructive modification of either component. | Demonstration |
+| 8.4 | Manufacturing and Assembly | Each completed device shall pass a functional test before final acceptance. | Test |
+| 8.5 | Manufacturing and Assembly | Each completed device shall pass the required temperature-accuracy test before final acceptance. | Test |
+| 9.1 | Safety | The enclosure shall prevent normal user contact with exposed energized conductors. | Inspection |
+| 9.2 | Safety | The device shall provide a fault indication if the temperature sensor becomes disconnected or stops providing valid data. | Test |
+| 9.3 | Safety | The device shall not identify an invalid temperature reading as a safe condition. | Test |
+| 9.4 | Safety | The display shall clearly identify whether a temperature reading represents Ambient Mode or Surface Body Mode. | Demonstration |
+| 9.5 | Safety | The device shall remain safe to handle throughout its specified operating temperature range. | Test |
+| 9.6 | Safety | The device shall not represent surface-temperature measurements as a medical diagnosis. | Inspection |
 
 ## Open Questions
 
