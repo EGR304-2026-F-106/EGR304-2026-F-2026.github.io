@@ -49,5 +49,10 @@ The new product design will be based on that of the AirPods with improvements ba
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+
+* Can we offer interoperability with other user devices (such as smartphones) to improve the user experience?
+* Can we offer better software features to enhance the user experience with no per-unit cost?
+* How can we expand customization and configuration without compromising reliability & safety?
+* How can we maintain accurate measurements while adapting to different conditions (outdoors/indoors, humid/dry)?
+* What sort of display (LCD, OLED, E-Ink, 7-Segment) offers the best balance between cost and visual clarity?
+* What sort of customization options should be offered? 
