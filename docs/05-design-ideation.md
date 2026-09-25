@@ -17,7 +17,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Calibration  | The device corrects sensor offsets to improve reading accuracy. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Digital Display  | The device uses a practical method to show temperature. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Error Indicator  | The device indicates when the readings are off and requires recallibration. |
-| The product provides accurate temperature measurements that users can trust without secondary verification. | Data Averaging  | The device provides stable and repeatable measaurements. |
+| The product provides accurate temperature measurements that users can trust without secondary verification. | Data Averaging  | The device provides stable and repeatable measurements. |
 | The product has a durable build quality. | Rubber Bumpers | The device's edges help reduce damage from drops and impacts |
 | The product has a durable build quality. | ASA Casing | The device uses a UV-Resistant and high-impact resistant material |
 | The product has a durable build quality. | Steel Framing | The device uses a strong internal frame. |
@@ -48,7 +48,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The product has a sleek and easy-to-read interface. | Icons/Symbols | The device has a variety of icons to show changes in both weather and device status. |
 | The product has a sleek and easy-to-read interface. | Backlight | The device can be read in dark environments. |
 | The product has a sleek and easy-to-read interface. | Color Display | The device uses various colors to indicate different temperature readings (blue for cold, red for hot, light blue for windy, etc.) |
-
+| The product has a sleek and easy-to-read interface. | Sans Serif Font | The device uses an easy-to-read font for those with visual impairments or reading disabilities.|
+| The product has a sleek and easy-to-read interface. | 7-Segment LED Display | The device uses a durable and clearly visible display for key measurements. |
+|The product shows whether temperature readings are rising, falling, or remaining steady over time.| Graphs | The device features a temperature graph for long-term monitoring of data |
+|The display clearly communicates environmental measurements to the user.| Unit Control | The device allows for toggling between Fahrenheit/Celsius.|
+|The product has sufficient physical stability during use. 	|Mounting holes| The device features through-holes and/or clips and/or a stand. |
+|The product preserves useful measurement history so users can compare current conditions with previous conditions.| Measurement History|Store a periodic summary of temperature conditions over time. |
 
 ## Step Three
 
