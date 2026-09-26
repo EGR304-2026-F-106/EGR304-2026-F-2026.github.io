@@ -115,6 +115,8 @@ This section contains three unique sketches that may be considered as the founda
 Sketch 1:
 ![Photo Output](image/photo-output.png)
 
+This HeatSmith sketch in CAD is designed as a simple, handheld device that helps users quickly check environmental conditions and navigate settings without complication. Its main purpose is to measure surrounding temperature conditions, display them clearly, and allow the user to interact with the device through a button interface that's similar to a video game controller. This concept focuses on combining accurate sensing, ease of use, and a clean but familiarly nostalgic interface into one compact product.
+
 Sketch 2:
 <img width="4000" height="3000" alt="20260926_004116" src="https://github.com/user-attachments/assets/f1278c83-f138-4c4c-8062-af12cbbf2b77" />
 "it is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
