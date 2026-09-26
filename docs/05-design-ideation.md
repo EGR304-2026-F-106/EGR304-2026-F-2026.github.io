@@ -8,7 +8,7 @@ This page focuses on exploring different features ideas, and sketches that could
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+To start the process of design ideation, every member was given the opportunity to generate multiple ideas to fulfil key user needs. This resulted in 100+ different features that could be used to satisfy these needs, as shown below:
 
 |                   requirement / need | feature | detail                                                                      |
 | -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
@@ -111,6 +111,7 @@ Once the brainstorming session concluded, multiple trends came across the 100+ u
 ## Concept Sketches
 
 This section contains three unique sketches that may be considered as the foundation of the product's direction and potential. Each of these sketches contain a photo of themselves, along with a brief description on their purpose, functionality, and how they serve the user.
+
 <img width="4000" height="3000" alt="20260926_004116" src="https://github.com/user-attachments/assets/f1278c83-f138-4c4c-8062-af12cbbf2b77" />
 "it is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
 ## One-Page Discussion/Documentation
