@@ -109,8 +109,11 @@ Add your context and tables
 ## Concept Sketches
 
 This section contains three unique sketches that may be considered as the foundation of the product's direction and potential. Each of these sketches contain a photo of themselves, along with a brief description on their purpose, functionality, and how they serve the user.
-
+<img width="4000" height="3000" alt="20260926_004116" src="https://github.com/user-attachments/assets/f1278c83-f138-4c4c-8062-af12cbbf2b77" />
+"it is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
 ## One-Page Discussion/Documentation
 
-How you applied rankings to top ideas?
-"we applied rankings to the top ideas by how often they came up to users in their reviews
+Who participated?
+"we all participated together to brainstorm these ideas"
+How did you meet? 
+"we met virtually because of all of our busy schedules"
