@@ -14,6 +14,8 @@ For each user need and product requirement, brainstorm 5 different product featu
 |                   requirement / need | feature | detail                                                                      |
 | -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Temperature Sensor  | The device uses a sensor to show temperature readings. |
+| The product provides accurate temperature measurements that users can trust without secondary verification. | Backup Sensors  | The device features a set of backup sensors working in tandem on a consensus model to deliver more accurate measurements|
+| The product provides accurate temperature measurements that users can trust without secondary verification. | Measurement Estimation  | The device uses sensors of different types alongside clock data to self-verify that measurements make sense. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Calibration  | The device corrects sensor offsets to improve reading accuracy. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Digital Display  | The device uses a practical method to show temperature. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Error Indicator  | The device indicates when the readings are off and requires recallibration. |
@@ -53,6 +55,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The product has a sleek and easy-to-read interface. | Sans Serif Font | The device uses an easy-to-read font for those with visual impairments or reading disabilities.|
 | The product has a sleek and easy-to-read interface. | 7-Segment LED Display | The device uses a durable and clearly visible display for key measurements. |
 |The product shows whether temperature readings are rising, falling, or remaining steady over time.| Graphs | The device features a temperature graph for long-term monitoring of data |
+|The product shows whether temperature readings are rising, falling, or remaining steady over time.| Trend Indicator | A simple up/down/flat indicator for the heat trend over a set period. |
 |The display clearly communicates environmental measurements to the user.| Unit Control | The device allows for toggling between Fahrenheit/Celsius.|
 |The product has sufficient physical stability during use. 	|Mounting holes| The device features through-holes and/or clips and/or a stand. |
 |The product preserves useful measurement history so users can compare current conditions with previous conditions.| Measurement History|Store a periodic summary of temperature conditions over time. |
