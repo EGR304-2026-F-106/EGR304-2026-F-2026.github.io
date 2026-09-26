@@ -57,8 +57,51 @@ For each user need and product requirement, brainstorm 5 different product featu
 |The product shows whether temperature readings are rising, falling, or remaining steady over time.| Trend Indicator | A simple up/down/flat indicator for the heat trend over a set period. |
 |The display clearly communicates environmental measurements to the user.| Unit Control | The device allows for toggling between Fahrenheit/Celsius.|
 |The product has sufficient physical stability during use. 	|Mounting holes| The device features through-holes and/or clips and/or a stand. |
-|The product preserves useful measurement history so users can compare current conditions with previous conditions.| Measurement History|Store a periodic summary of temperature conditions over time. |
-
+| The product operates consistently when user safety depends on its measurements. |  Watchdog Timer | The device automatically restarts its measurement processes if the software hangs or freezes. |
+| The product operates consistently when user safety depends on its measurements. |  Backup Capacitor | The device uses a capacitor to keep safety monitoring during power fluctuations. |
+| The product provides a long useful service life. |  UV-Stabilized Plastics | prevents the product outer shell from break due to exposure to UV light and breaking |
+| The product provides a long useful service life. | Solid-State Components  | The device avoids moving parts wherever possible to reduce physical wear and tear. |
+| The product provides a long useful service life. |  Overcharge Protection | The internal battery system prevents degradation by stopping the charge cycle once  fully charged |
+| The product provides a long useful service life. |  Corrosion resistance | The internal circuit boards are coated with a protective layer to prevent corrosion over years of use. |
+| The product provides a long useful service life. |  RIGHT TO REPAIR | allowing easy access to the components and replacements, allowing for users to safely and easily repair it  |
+| The product resists breaking caused by moisture |  water resistant casing | casing uses tubber and such to prevent dust and water getting in |
+| The product resists breaking caused by moisture |  Gold-Plated Contacts | to prevent corrosion of moisture |
+| The product resists breaking caused by moisture |  Silica gel packets | absorbs water, keeping components safe |
+| The product resists breaking caused by moisture |  moisture indicator | alerts the user to moisture too much for it to handle |
+| The product resists breaking caused by moisture |  water run off shield | protects the product by having a shield the protects it from water run off |
+| The product is easy to install. |  Magnetic Base | for easy installation  |
+| The product is easy to install. | Pre-Applied Adhesive Tape  | for easy installation  |
+| The product is easy to install. |  Keyhole Slots | for easy installation |
+| The product is easy to install. | Auto-Pairing Protocol  | pairs to devices to read everything automatically |
+| The product is easy to install. |  plug in and play | the user only needs to turn on the device to get it to work |
+| The product requires little user intervention after its initial setup. |  Solar Charger | solar panel keeps battery charged |
+| The product requires little user intervention after its initial setup. |  Auto-Dimming Display | dims the display to keep power usage low |
+| The product requires little user intervention after its initial setup. |  Automatic Time Sync | keep the time accurate so measurements are accurate |
+| The product requires little user intervention after its initial setup. | back up power source  | secondary power source in case the first one fails  |
+| The product requires little user intervention after its initial setup. |  Self-Calibrating Routine | calibrates sensors automatically to keep accuracy |
+| The product includes a backup power source. | Dual Battery  | has 2 batteries as a back up power source |
+| The product includes a backup power source. | Supercapacitor Backup  |  keeps it alive for a period of time between swaps in batteries repair |
+| The product includes a backup power source. |  AC Adapter with Failover | plugged into the wall and will swap over to internal battery when it fails |
+| The product includes a backup power source. | USB Power Bank Port  | allows for a power bank to be used in case all else fails |
+| The product includes a backup power source. | Kinetic Generator  | shaking allows for power to be generated as back up back up power |
+| The product provides long battery life. | Low Power Microcontroller  | to keep it as efficent as possible |
+| The product provides long battery life. | E-Paper Screen  | a screen that doesn't update unless power is sent to it, very power efficent |
+| The product provides long battery life. |  High-Capacity Lithium-Ion | to keep it running as long as possible |
+| The product provides long battery life. | Battery Optimizer  | optimizes the battery to be as efficient as possible |
+| The product provides long battery life. |  adaptive battery usage | adapts to the usage of the power so it uses it as efficiently as possible |
+| The product records daily high and low temperature values for later reference. |  Manual Reset Button | reset just in case memory gets full |
+| The product records daily high and low temperature values for later reference. |  Timestamped Records | time and date stamped for accurate recordinng |
+| The product records daily high and low temperature values for later reference. | All-Time Record Memory  | records everything until storage is full |
+| The product supports multiple sensors through one main unit. |  Split-Screen Display | allows for multiple units to connect together to show different things on each sceem |
+| The product supports multiple sensors through one main unit. |  Auto-Scroll Mode | scrolls through different metrics every so often |
+| The product supports multiple sensors through one main unit. | Sensor Naming Feature  | custumizationto name each unit |
+| The product supports multiple sensors through one main unit. | Expandable Hub  | allows multiple units, to allow for connectivity and share information |
+| The product supports multiple sensors through one main unit. |  notification to phone | allows for all information to be send to phones |
+| The product allows users to customize features according to their preferences. | Modular Dashboard  | allows for choosing metrics and data displays  |
+| The product allows users to customize features according to their preferences. |  Toggleable Alerts | allows for alerts to be toggled to phone |
+| The product allows users to customize features according to their preferences. |  Selectable Units | allows for which units are active at what times |
+| The product allows users to customize features according to their preferences. | Programmable Sleep Schedule  | will sleep during the time set |
+| The product allows users to customize features according to their preferences. | Interchangeable Faceplates  | allows for customization of faceplates to let the user make it their own |
 ## Sort, Rank, & Group
 
 Add your context and tables
@@ -69,3 +112,5 @@ This section contains three unique sketches that may be considered as the founda
 
 ## One-Page Discussion/Documentation
 
+How you applied rankings to top ideas?
+"we applied rankings to the top ideas by how often they came up to users in their reviews
