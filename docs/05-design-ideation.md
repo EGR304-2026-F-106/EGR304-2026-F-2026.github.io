@@ -4,8 +4,7 @@ title: Design Ideation
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+This page focuses on exploring different features ideas, and sketches that could help meet the user needs of the HeatSmith. Each user need is paired with several possible features and short descriptions of how they could improve the product. These ideas will help the team compare different options and decide which features would work best in the final design.
 
 ## Generating Ideas
 
@@ -60,13 +59,13 @@ For each user need and product requirement, brainstorm 5 different product featu
 |The product has sufficient physical stability during use. 	|Mounting holes| The device features through-holes and/or clips and/or a stand. |
 |The product preserves useful measurement history so users can compare current conditions with previous conditions.| Measurement History|Store a periodic summary of temperature conditions over time. |
 
-## Step Three
+## Sort, Rank, & Group
 
 Add your context and tables
 
-## Step Four
+## Concept Sketches
 
-Add your different product concepts stuff here
+This section contains three unique sketches that may be considered as the foundation of the product's direction and potential. Each of these sketches contain a photo of themselves, along with a brief description on their purpose, functionality, and how they serve the user.
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+## One-Page Discussion/Documentation
+
