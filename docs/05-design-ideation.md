@@ -2,7 +2,7 @@
 title: Design Ideation
 ---
 
-## Intro/overview
+## Overview of Design Ideation
 
 This page focuses on exploring different features ideas, and sketches that could help meet the user needs of the HeatSmith. Each user need is paired with several possible features and short descriptions of how they could improve the product. These ideas will help the team compare different options and decide which features would work best in the final design.
 
@@ -102,6 +102,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The product allows users to customize features according to their preferences. |  Selectable Units | allows for which units are active at what times |
 | The product allows users to customize features according to their preferences. | Programmable Sleep Schedule  | will sleep during the time set |
 | The product allows users to customize features according to their preferences. | Interchangeable Faceplates  | allows for customization of faceplates to let the user make it their own |
+
 ## Sort, Rank, & Group
 
 Add your context and tables
