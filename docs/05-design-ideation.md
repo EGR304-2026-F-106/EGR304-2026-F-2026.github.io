@@ -105,7 +105,8 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 ## Sort, Rank, & Group
 
-Add your context and tables
+Once the brainstorming session concluded, multiple trends came across the 100+ user design needs, which required multiple groupings for these statements. While these groups similar to the initial user need statements that didn't involve a design idea to solve these problems, they still give the device a much more clear direction and how it will solve the problems users had with other products. The content below provides a sorting of these statements, along with the rank of importance for these groups:
+
 
 ## Concept Sketches
 
