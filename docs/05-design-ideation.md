@@ -23,6 +23,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The product has a durable build quality. | Steel Framing | The device uses a strong internal frame. |
 | The product has a durable build quality. | Screen Cover | The device uses a protective cover to prevent the display's damage. |
 | The product has a durable build quality. | Recessed Buttons | The device's buttons sit in the casing to prevent buttons from falling out on impact. |
+| The product has a durable build quality. | Dial Control | The device is controlled with dials alternatively to a touchscreen.  |
 | The product remains accurate under different environmental conditions, including rain. | Hydrophobic Coating | The device uses a form of ceramic coating to have water bead off of itself. |
 | The product remains accurate under different environmental conditions, including rain. | Sensor Cover | The device uses a cover that shields the sensors from getting wet. |
 | The product remains accurate under different environmental conditions, including rain. | Ventilation Holes | The device features small holes to allow outside air to circulate. |
@@ -32,6 +33,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The product requires little user intervention after its initial setup. | Rechargeable Battery | The device can operate for long periods of time without changing out batteries. |
 | The product requires little user intervention after its initial setup. | Memory Storage | The device can remember what the user setup for the device, every time it's used. |
 | The product requires little user intervention after its initial setup. | Audio Alert | The device makes a "beep" when it's in a potentially hazardous environment. |
+| The product requires little user intervention after its initial setup. | Phone Notifications | The device sends a notification via an app detailing its status and measurements. |
 | The product requires little user intervention after its initial setup. | Auto Sensing | The user does not have to tell the device when to start sensing for new temperature readings. |
 | Users can focus on the features relevant to their intended application without unnecessary complexity. | Preset Modes | The device can be programmed to detect weather a certain way with a push of a button. |
 | Users can focus on the features relevant to their intended application without unnecessary complexity. | Menu System | The device has functions grouped into categories, letting users quickly find what they need. |
