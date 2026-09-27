@@ -115,7 +115,7 @@ To start the process of design ideation, every member was given the opportunity 
 
 Using Lucidspark, sticky notes were used virtually for these statements with potential feature solutions. Some sticky notes were left in their own category as an "extra idea" category, in case some ideas were to be circled back for later usage.
 
-![Photo Output](image/Sticky notes(1).png)
+![Sticky notes](Sticky%20notes%20%281%29.png)
 
 ## Sort, Rank, & Group
 
