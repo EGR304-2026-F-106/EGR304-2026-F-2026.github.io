@@ -124,25 +124,25 @@ Once the brainstorming session concluded, multiple trends came across the 100+ u
 
 ## Concept Sketches
 
-This section contains three unique sketches that may be considered as the foundation of the product's direction and potential. Each of these sketches contain a photo of themselves, along with a brief description on their purpose, functionality, and how they serve the user.
+This section contains three unique sketches that may be considered as the foundation of the product's direction and potential. Each of these sketches contain either a video or photo that dives into their concepts, along with a brief description of their purpose, functionality, and how they serve the user.
 
-Sketch 1:
+*Sketch 1:*
 ![Photo Output](image/photo-output.png)
 
-This HeatSmith sketch in CAD is designed as a simple, handheld device that helps users quickly check environmental conditions and navigate settings without complication. Its main purpose is to measure surrounding temperature conditions, display them clearly, and allow the user to interact with the device through a button interface that's similar to a video game controller. This concept focuses on combining accurate sensing, ease of use, and a clean but familiarly nostalgic interface into one compact product.
+The sketch in CAD is designed as a simple, handheld device that helps users quickly check environmental conditions and navigate settings without complication. Its main purpose is to measure surrounding temperature conditions, display them clearly, and allow the user to interact with the device through a button interface that's similar to a video game controller. This concept focuses on combining accurate sensing, ease of use, and a clean but familiarly nostalgic interface into one compact product.
 
-Sketch 2:
+*Sketch 2:*
 <a href="https://youtu.be/gnOTRIFzqKA">
   <img src="https://youtube.com" alt="Watch the video" width="560" height="315" />
 </a>
 
 
-"it is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
+"It is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
 
-Sketch 1:
+Sketch 3:
 ![Photo Output](image/HS-AnnotatedSketch3.svg)
 
-     This sketch features the main unit and focuses on the peripherals (Screen, Status LEDs, Buttons, Dials), connection ports (DC Power, Sensors, Screens/Computer) and the mounting surfaces (Screw Fasteners, Rubber legs). The user experience primarily consists of selecting what information to display (Temperature, graphs, connections, etc) and what actions to perform using the buttons, while navigating lists using the dials. The purpose of the dials and buttons is to resist against outdoor conditions that a capacitive touchscreen may not be usable in. The fasteners give the user freedom in deciding where to place the HeatSmith.
+This sketch features the main unit and focuses on the peripherals (Screen, Status LEDs, Buttons, Dials), connection ports (DC Power, Sensors, Screens/Computer) and the mounting surfaces (Screw Fasteners, Rubber legs). The user experience primarily consists of selecting what information to display (Temperature, graphs, connections, etc) and what actions to perform using the buttons, while navigating lists using the dials. The purpose of the dials and buttons is to resist against outdoor conditions that a capacitive touchscreen may not be usable in. The fasteners give the user freedom in deciding where to place the HeatSmith.
 
 ## Summary of Documentation & Discussion
 For the brainstorming session, every member of the team (Joseph Rivera, Damio Garcia, & Malik Johnson) were involved with this process and met remotely through Discord, due strict availability.  During this time, every member of the team brought in a minimum of 35 unique feature ideas for everyone to discuss and categorize. Before beginning the grouping process, each member gave a quick “label” to what their need meant to them. Whether the label was under “numbers”, “appearance”, or “buttons”, this would lead the group to start putting similar words or similar topics against each other.  Once these small groups were created, every member came together to see if these small groups could be filed under a larger, broader category that defined each feature’s true purpose. This led to six different categories being created to filter and group each sub-section to their designated area.
