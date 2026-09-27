@@ -121,28 +121,161 @@ To start the process of design ideation, every member was given the opportunity 
 
 Once the brainstorming session concluded, multiple trends came across the 100+ user design needs, which required multiple groupings for these statements. While these groups similar to the initial user need statements that didn't involve a design idea to solve these problems, they still give the device a much more clear direction and how it will solve the problems users had with other products. The content below provides a sorting of these statements, along with the rank of importance for these groups:
 
+# 1. Accuracy & Reliability
+| Rank | Feature Idea | Feature Detail |
+| ---: | --- | --- |
+| 1 | Temperature Sensor | The device uses a sensor to show temperature readings. |
+| 2 | Calibration | The device corrects sensor offsets to improve reading accuracy. |
+| 3 | Data Averaging | The device provides stable and repeatable measurements. |
+| 4 | Backup Sensors | The device features a set of backup sensors working in tandem on a consensus model to deliver more accurate measurements. |
+| 5 | Error Indicator | The device indicates when readings are inaccurate and recalibration may be required. |
+| 6 | Self-Calibrating Routine | The device automatically calibrates sensors to maintain accuracy. |
+| 7 | Multi-Paradigm Sensors | The device uses multiple types of sensors to measure the same value through different methods. |
+| 8 | Measurement Estimation | The device compares different sensor measurements and clock data to determine whether measurements make sense. |
+| 9 | Watchdog Timer | The device automatically restarts measurement processes if the software hangs or freezes. |
+| 10 | Centralized Recalibration | The device connects to external measurement sources for data verification. |
+| 11 | Waterproof Sensor | The temperature sensor is protected from direct rain contact. |
+| 12 | Sensor Cover | The device uses a cover that shields the sensors from getting wet. |
+| 13 | Ventilation Holes | The device allows outside air to circulate around the sensing area. |
+| 14 | Drainage Holes | The device allows collected water to leave the sensor area. |
+| 15 | Hydrophobic Coating | The device uses a water-repelling coating that causes water to bead off its surface. |
+| 16 | Backup Capacitor | The device temporarily maintains safety monitoring during power fluctuations. |
+| 17 | Data Analysis | The device combines information from multiple sensors to make conclusions and provide recommendations. |
+| 18 | Trend Indicator | The device provides a simple up, down, or steady indicator showing temperature trends. |
+| 19 | Timestamped Records | Temperature measurements are stored with their corresponding time and date. |
+| 20 | Graphs | The device displays temperature changes graphically for long-term monitoring. |
+| 21 | All-Time Record Memory | The device records measurements until its available storage is full. |
+| 22 | Manual Reset Button | The user can manually reset stored data when necessary. |
+
+---
+
+# 2. Durability & Protection
+| Rank | Feature Idea | Feature Detail |
+| ---: | --- | --- |
+| 1 | ASA Casing | The device uses a UV-resistant and impact-resistant exterior material. |
+| 2 | Water-Resistant Casing | The casing prevents water and dust from reaching internal components. |
+| 3 | Internal Cushioning | Fragile internal components are cushioned against falls and impacts. |
+| 4 | Rubber Bumpers | The edges of the device help reduce damage caused by drops and impacts. |
+| 5 | Corrosion Resistance | Internal circuit boards use protective coatings to reduce corrosion over time. |
+| 6 | Screen Cover | The device uses a protective cover to prevent damage to the display. |
+| 7 | UV-Stabilized Plastics | Exterior materials resist degradation caused by long-term sunlight exposure. |
+| 8 | Recessed Buttons | Buttons sit inside the casing to reduce the chance of damage during an impact. |
+| 9 | Rounded Construction | The device avoids sharp corners that could become common impact points. |
+| 10 | Honeycomb Interior | The internal structure distributes impact forces throughout the frame. |
+| 11 | Port Caps | Flexible covers protect USB and other physical ports from water and debris. |
+| 12 | Gold-Plated Contacts | Electrical contacts resist corrosion caused by moisture. |
+| 13 | Steel Framing | The device uses a strong internal metal frame. |
+| 14 | Solid-State Components | The device avoids moving parts wherever possible to reduce physical wear. |
+| 15 | Overcharge Protection | The battery system stops charging when full to reduce long-term battery degradation. |
+| 16 | Moisture Indicator | The device alerts the user when excessive moisture is detected. |
+| 17 | Water Runoff Shield | A shield directs water away from vulnerable portions of the product. |
+| 18 | Freely-Suspended Internals | Internal components are suspended to reduce forces transferred during a drop. |
+| 19 | Silica Gel Packets | Moisture-absorbing material helps keep internal components dry. |
+| 20 | Right to Repair | Internal components can be accessed and replaced instead of requiring complete product replacement. |
+| 21 | Mounting Holes | The device includes through-holes, clips, or a stand to improve physical stability. |
+| 22 | Screen Shades | Built-in shades protect the display from sunlight when necessary. |
+| 23 | Resistive Touch Screen | The device uses a pressure-based touchscreen that can remain functional in different conditions. |
+| 24 | Dial Control | Physical dials provide an alternative to touchscreen controls. |
+
+---
+
+# 3. Interface & Alerts
+| Rank | Feature Idea | Feature Detail |
+| ---: | --- | --- |
+| 1 | LCD Display | The device displays temperature measurements and alerts on a digital screen. |
+| 2 | Large Text | Important information is displayed using large characters that can be read from farther away. |
+| 3 | Icons / Symbols | The interface uses recognizable symbols to communicate weather and device status. |
+| 4 | Color Display | Different colors are used to quickly distinguish temperature and environmental conditions. |
+| 5 | Accessibility Options | Preset display options support users who require colorblind or high-contrast modes. |
+| 6 | Sans Serif Font | The interface uses a simple font that is easier to read for users with visual or reading difficulties. |
+| 7 | Backlight | The display remains readable in dark or low-light environments. |
+| 8 | Unit Control | Users can switch displayed measurements between Fahrenheit and Celsius. |
+| 9 | Audio Alert | The device produces an audible warning when potentially hazardous conditions are detected. |
+| 10 | 7-Segment LED Display | Key measurements can be presented using a simple and highly visible display. |
+| 11 | Auto-Scroll Mode | The interface automatically cycles through different measurements or sensor information. |
+| 12 | Split-Screen Display | Information from multiple sensors can be shown simultaneously on the display. |
+| 13 | Secondary Display | An HDMI or USB connection allows information to be shown on an additional display. |
+
+# 4. Controls, Customization & Connectivity
+| Rank | Feature Idea | Feature Detail |
+| ---: | --- | --- |
+| 1 | Preset Modes | The device provides predefined operating modes that can be activated quickly. |
+| 2 | Dedicated Buttons | Physical buttons give users direct access to important functions. |
+| 3 | Menu System | Device functions are organized into categories that users can navigate. |
+| 4 | Custom Settings | Users can change settings according to their individual needs. |
+| 5 | Mode Editor | Users can enable or disable specific features within an operating mode. |
+| 6 | Toggleable Alerts | Users can enable or disable selected alerts. |
+| 7 | Modular Dashboard | Users can select which measurements and information appear on the main interface. |
+| 8 | Selectable Units | Users can choose which connected units or sensors are active. |
+| 9 | Expandable Hub | Multiple sensing units can connect to one main device and share information. |
+| 10 | Sensor Naming Feature | Connected sensors can be given custom names for easier identification. |
+| 11 | Phone Notifications | Device information and alerts can be sent to a user's phone. |
+| 12 | Programmable Sleep Schedule | Users can select times when the device enters a reduced-power state. |
+| 13 | Interchangeable Faceplates | Users can change the exterior faceplate to personalize the appearance of the device. |
+
+# 5. Power & Automation
+| Rank | Feature Idea | Feature Detail |
+| ---: | --- | --- |
+| 1 | Rechargeable Battery | The device operates for extended periods without requiring disposable battery replacements. |
+| 2 | Low-Power Microcontroller | The device uses an efficient microcontroller to reduce overall power consumption. |
+| 3 | Auto Sensing | The device automatically begins collecting new temperature measurements without user input. |
+| 4 | Memory Storage | User settings are retained between uses so they do not need to be entered repeatedly. |
+| 5 | Sleep Mode | The device reduces power consumption when full operation is unnecessary. |
+| 6 | High-Capacity Lithium-Ion Battery | The device uses a high-capacity rechargeable battery to extend operating time. |
+| 7 | Backup Power Source | A secondary power source maintains operation if the primary source fails. |
+| 8 | Dual Battery | Two batteries provide redundancy if one battery loses power. |
+| 9 | Supercapacitor Backup | A supercapacitor temporarily powers the device during battery swaps or power interruptions. |
+| 10 | AC Adapter with Failover | The device normally operates from wall power and switches to an internal battery during an outage. |
+| 11 | Battery Optimizer | The system manages battery usage to improve efficiency. |
+| 12 | Adaptive Battery Usage | Power consumption changes automatically depending on how the device is being used. |
+| 13 | Power Duty Cycle | The device reduces power consumption by activating certain functions only when measurements need to be taken. |
+| 14 | Auto-Dimming Display | Display brightness automatically decreases when full brightness is unnecessary. |
+| 15 | Solar Charger | A solar panel can recharge the battery and reduce how often the user must manually charge the device. |
+| 16 | Automatic Time Sync | The device automatically maintains accurate time information for measurements and records. |
+| 17 | USB Power Bank Port | An external USB power bank can be used as an emergency power source. |
+| 18 | E-Paper Screen | The display consumes very little power when information is not being updated. |
+| 19 | Kinetic Generator | Physical motion can generate limited emergency power for the device. |
+
+---
+
+# 6. Installation & Value
+| Rank | Feature Idea | Feature Detail |
+| ---: | --- | --- |
+| 1 | Plug-and-Play | The device begins functioning with little setup beyond powering it on. |
+| 2 | USB-C Charging | The device uses a common charging connection rather than a specialized charger. |
+| 3 | Modular Design | Individual components can be replaced or repaired instead of replacing the entire device. |
+| 4 | Magnetic Base | The device can be installed quickly on compatible metal surfaces. |
+| 5 | Visual Setup Guide | A visual instruction guide explains installation and common device functions. |
+| 6 | Auto-Pairing Protocol | Compatible devices and sensors automatically connect during setup. |
+| 7 | Durable Casing | A long-lasting enclosure reduces the likelihood that the entire product needs replacement. |
+| 8 | Rechargeable Battery | Recharging the existing battery reduces the recurring cost of disposable batteries. |
+| 9 | Prioritized Options | The product focuses on useful features rather than adding unnecessary functions that increase cost. |
+| 10 | Keyhole Slots | Built-in mounting slots allow the product to be attached to a wall or other surface. |
+| 11 | Pre-Applied Adhesive Tape | Adhesive allows installation without additional mounting hardware. |
+| 12 | Power Duty Cycle | Reduced energy consumption lowers charging frequency and operating costs. |
+
 
 ## Concept Sketches
 
 This section contains three unique sketches that may be considered as the foundation of the product's direction and potential. Each of these sketches contain either a video or photo that dives into their concepts, along with a brief description of their purpose, functionality, and how they serve the user.
 
-*Sketch 1:*
+**Sketch 1:**
 ![Photo Output](image/photo-output.png)
 
-The sketch in CAD is designed as a simple, handheld device that helps users quickly check environmental conditions and navigate settings without complication. Its main purpose is to measure surrounding temperature conditions, display them clearly, and allow the user to interact with the device through a button interface that's similar to a video game controller. This concept focuses on combining accurate sensing, ease of use, and a clean but familiarly nostalgic interface into one compact product.
+"The sketch in CAD is designed as a simple, handheld device that helps users quickly check environmental conditions and navigate settings without complication. Its main purpose is to measure surrounding temperature conditions, display them clearly, and allow the user to interact with the device through a button interface that's similar to a video game controller. This concept focuses on combining accurate sensing, ease of use, and a clean but familiarly nostalgic interface into one compact product."
 
-*Sketch 2:*
+**Sketch 2:**
 <a href="https://youtu.be/gnOTRIFzqKA">
   <img src="https://youtube.com" alt="Watch the video" width="560" height="315" />
 </a>
 
 
-"It is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
+"It is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it." 
 
-Sketch 3:
+**Sketch 3:**
 ![Photo Output](image/HS-AnnotatedSketch3.svg)
 
-This sketch features the main unit and focuses on the peripherals (Screen, Status LEDs, Buttons, Dials), connection ports (DC Power, Sensors, Screens/Computer) and the mounting surfaces (Screw Fasteners, Rubber legs). The user experience primarily consists of selecting what information to display (Temperature, graphs, connections, etc) and what actions to perform using the buttons, while navigating lists using the dials. The purpose of the dials and buttons is to resist against outdoor conditions that a capacitive touchscreen may not be usable in. The fasteners give the user freedom in deciding where to place the HeatSmith.
+"This sketch features the main unit and focuses on the peripherals (Screen, Status LEDs, Buttons, Dials), connection ports (DC Power, Sensors, Screens/Computer) and the mounting surfaces (Screw Fasteners, Rubber legs). The user experience primarily consists of selecting what information to display (Temperature, graphs, connections, etc) and what actions to perform using the buttons, while navigating lists using the dials. The purpose of the dials and buttons is to resist against outdoor conditions that a capacitive touchscreen may not be usable in. The fasteners give the user freedom in deciding where to place the HeatSmith."
 
 ## Summary of Documentation & Discussion
 For the brainstorming session, every member of the team (Joseph Rivera, Damio Garcia, & Malik Johnson) were involved with this process and met remotely through Discord, due strict availability.  During this time, every member of the team brought in a minimum of 35 unique feature ideas for everyone to discuss and categorize. Before beginning the grouping process, each member gave a quick “label” to what their need meant to them. Whether the label was under “numbers”, “appearance”, or “buttons”, this would lead the group to start putting similar words or similar topics against each other.  Once these small groups were created, every member came together to see if these small groups could be filed under a larger, broader category that defined each feature’s true purpose. This led to six different categories being created to filter and group each sub-section to their designated area.
