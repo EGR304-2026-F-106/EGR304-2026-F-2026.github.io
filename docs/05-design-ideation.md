@@ -139,6 +139,11 @@ Sketch 2:
 
 "it is a 3d printed mock up of the overall shape and size of the unit. it shows the outer shell, and gives the user of how big the device is so they know where to put it" 
 
+Sketch 1:
+![Photo Output](image/HS-AnnotatedSketch3.svg)
+
+     This sketch features the main unit and focuses on the peripherals (Screen, Status LEDs, Buttons, Dials), connection ports (DC Power, Sensors, Screens/Computer) and the mounting surfaces (Screw Fasteners, Rubber legs). The user experience primarily consists of selecting what information to display (Temperature, graphs, connections, etc) and what actions to perform using the buttons, while navigating lists using the dials. The purpose of the dials and buttons is to resist against outdoor conditions that a capacitive touchscreen may not be usable in. The fasteners give the user freedom in deciding where to place the HeatSmith.
+
 ## Summary of Documentation & Discussion
 For the brainstorming session, every member of the team (Joseph Rivera, Damio Garcia, & Malik Johnson) were involved with this process and met remotely through Discord, due strict availability.  During this time, every member of the team brought in a minimum of 35 unique feature ideas for everyone to discuss and categorize. Before beginning the grouping process, each member gave a quick “label” to what their need meant to them. Whether the label was under “numbers”, “appearance”, or “buttons”, this would lead the group to start putting similar words or similar topics against each other.  Once these small groups were created, every member came together to see if these small groups could be filed under a larger, broader category that defined each feature’s true purpose. This led to six different categories being created to filter and group each sub-section to their designated area.
 
