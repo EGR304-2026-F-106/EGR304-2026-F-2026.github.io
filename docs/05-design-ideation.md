@@ -115,6 +115,8 @@ To start the process of design ideation, every member was given the opportunity 
 
 Using Lucidspark, sticky notes were used virtually for these statements with potential feature solutions. Some sticky notes were left in their own category as an "extra idea" category, in case some ideas were to be circled back for later usage.
 
+![Photo Output](image/Sticky notes(1).png)
+
 ## Sort, Rank, & Group
 
 Once the brainstorming session concluded, multiple trends came across the 100 user design needs, which required multiple groupings for these statements. While these groups similar to the initial user need statements that didn't involve a design idea to solve these problems, they still give the device a much more clear direction and how it will solve the problems users had with other products. The content below provides a ranking of the six groups from important to least important, along with the rankings of every feature idea in those groups. On an additional note, the "extra ideas" that were documented in the brainstorming stage have found their way into these categories to ensure that all ideas were considered for the sketches that will be shown later.
