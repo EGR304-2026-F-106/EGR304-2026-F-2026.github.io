@@ -19,9 +19,18 @@ To start the process of design ideation, every member was given the opportunity 
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Digital Display  | The device uses a practical method to show temperature. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Error Indicator  | The device indicates when the readings are off and requires recallibration. |
 | The product provides accurate temperature measurements that users can trust without secondary verification. | Data Averaging  | The device provides stable and repeatable measurements. |
+| The product provides accurate temperature measurements that users can trust without secondary verification. | Centralized Recalibration  | The device automatically connects to external measurement sources for data verification|
+| The product provides accurate temperature measurements that users can trust without secondary verification. | Multi-Paradigm Sensors   | The device features multiple sensors that measure the same value through different means, such as having both an analog and digital temperature sensor.  |
+| The product provides accurate temperature measurements that users can trust without secondary verification. | Data Analysis  | The device combines data from multiple sensors to make conclusions and provide active recommendations for the user. |
 | The product has a durable build quality. | Rubber Bumpers | The device's edges help reduce damage from drops and impacts |
 | The product has a durable build quality. | ASA Casing | The device uses a UV-Resistant and high-impact resistant material |
+| The product has a durable build quality. | Rounded Construction | The device's frame is built without sharp corners. |
+| The product has a durable build quality. | Honeycomb Interior | The device features an interior honeycomb to distribute forces around the entire frame. |
 | The product has a durable build quality. | Steel Framing | The device uses a strong internal frame. |
+| The product has a durable build quality. | Internal Cushioning | The fragile components of the device are cushioned against falls. |
+| The product has a durable build quality. | Screen Shades | The screen is shielded from sunlight by built-in shades when not in use. |
+| The product has a durable build quality. | Freely-suspended | The device's internals are held within a nested box suspended by springs or otherwise against falls. |
+| The product has a durable build quality. | Resistive Touch Screen | The device uses a pressure-based touchscreen. |
 | The product has a durable build quality. | Screen Cover | The device uses a protective cover to prevent the display's damage. |
 | The product has a durable build quality. | Recessed Buttons | The device's buttons sit in the casing to prevent buttons from falling out on impact. |
 | The product has a durable build quality. | Dial Control | The device is controlled with dials alternatively to a touchscreen.  |
@@ -42,15 +51,18 @@ To start the process of design ideation, every member was given the opportunity 
 | Users can focus on the features relevant to their intended application without unnecessary complexity. | Custom Settings | The device offers a variety of settings that tailor to the user's needs. | 
 | Users can focus on the features relevant to their intended application without unnecessary complexity. | Mode Editor | The user can select any mode, where they're allowed to enable and disable certain features for it.|
 | The product provides good overall value for its price. | Rechargeable Battery | The device doesn't require extra money to buy batteries on the regular. |
+| The product provides good overall value for its price. | Power Duty Cycle | The device saves power by limiting its consumption while not in active use, turning on only occasionally to log data. |
 | The product provides good overall value for its price. | USB-C Charging | The device can be charged with a common USB-C cable. |
 | The product provides good overall value for its price. | Modular Design | Parts can either be replaced or repaired, rather than having to buy an entirely new device. |
 | The product provides good overall value for its price. | Prioritized Options | The device uses modes and options that are necessary without extra "fluff" to justify a higher price. |
 | The product provides good overall value for its price. | Durable Casing | The device has longevity, while having the strength to function after critical drops.  |
 | The product has a sleek and easy-to-read interface. | Large Text | The device has a large display to read from far away |
+| The product has a sleek and easy-to-read interface. | Secondary Display | The device has an HDMI or USB port for a secondary display |
 | The product has a sleek and easy-to-read interface. | LCD Display | The device shows both temperature readings and alerts on a digital screen. |
 | The product has a sleek and easy-to-read interface. | Icons/Symbols | The device has a variety of icons to show changes in both weather and device status. |
 | The product has a sleek and easy-to-read interface. | Backlight | The device can be read in dark environments. |
 | The product has a sleek and easy-to-read interface. | Color Display | The device uses various colors to indicate different temperature readings (blue for cold, red for hot, light blue for windy, etc.) |
+| The product has a sleek and easy-to-read interface. | Accessibility Options | The device features preset options that accommodate for those with colorblindness or who need a high-contrast display.  |
 | The product has a sleek and easy-to-read interface. | Sans Serif Font | The device uses an easy-to-read font for those with visual impairments or reading disabilities.|
 | The product has a sleek and easy-to-read interface. | 7-Segment LED Display | The device uses a durable and clearly visible display for key measurements. |
 |The product shows whether temperature readings are rising, falling, or remaining steady over time.| Graphs | The device features a temperature graph for long-term monitoring of data |
@@ -69,15 +81,17 @@ To start the process of design ideation, every member was given the opportunity 
 | The product resists breaking caused by moisture |  Silica gel packets | absorbs water, keeping components safe |
 | The product resists breaking caused by moisture |  moisture indicator | alerts the user to moisture too much for it to handle |
 | The product resists breaking caused by moisture |  water run off shield | protects the product by having a shield the protects it from water run off |
+| The product resists breaking caused by moisture |  Port Caps | The device features flexible port caps for any physical USB or other ports. |
 | The product is easy to install. |  Magnetic Base | for easy installation  |
 | The product is easy to install. | Pre-Applied Adhesive Tape  | for easy installation  |
 | The product is easy to install. |  Keyhole Slots | for easy installation |
 | The product is easy to install. | Auto-Pairing Protocol  | pairs to devices to read everything automatically |
 | The product is easy to install. |  plug in and play | the user only needs to turn on the device to get it to work |
+| The product is easy to install. |  Visual Setup Guide | The device features a visual guide for setup and common actions (think Lego-style) |
 | The product requires little user intervention after its initial setup. |  Solar Charger | solar panel keeps battery charged |
 | The product requires little user intervention after its initial setup. |  Auto-Dimming Display | dims the display to keep power usage low |
 | The product requires little user intervention after its initial setup. |  Automatic Time Sync | keep the time accurate so measurements are accurate |
-| The product requires little user intervention after its initial setup. | back up power source  | secondary power source in case the first one fails  |
+| The product requires little user intervention after its initial setup. | Back up power source  | secondary power source in case the first one fails  |
 | The product requires little user intervention after its initial setup. |  Self-Calibrating Routine | calibrates sensors automatically to keep accuracy |
 | The product includes a backup power source. | Dual Battery  | has 2 batteries as a back up power source |
 | The product includes a backup power source. | Supercapacitor Backup  |  keeps it alive for a period of time between swaps in batteries repair |
