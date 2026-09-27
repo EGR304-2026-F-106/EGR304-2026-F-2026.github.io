@@ -255,7 +255,7 @@ Once the brainstorming session concluded, multiple trends came across the 100 us
 | 12 | Power Duty Cycle | Reduced energy consumption lowers charging frequency and operating costs. |
 
 By using Lucidspark's "LucidAI", all sticky notes were rewritten into clean charts with the 6 categories, as well as each feature's requirement to fulfil. 
-
+![Sticky notes](image/Sticky%20notes%20%282%29.png)
 
 
 ## Concept Sketches
