@@ -1,8 +1,8 @@
 ---
-title: Design Ideation
+title: Ideation and Concept Generation
 ---
 
-## Overview of Design Ideation
+## Overview of Ideation and Concept Generation
 
 This page focuses on exploring different features ideas, and sketches that could help meet the user needs of the HeatSmith. Each user need is paired with several possible features and short descriptions of how they could improve the product. These ideas will help the team compare different options and decide which features would work best in the final design.
 
