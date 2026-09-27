@@ -254,6 +254,9 @@ Once the brainstorming session concluded, multiple trends came across the 100 us
 | 11 | Pre-Applied Adhesive Tape | Adhesive allows installation without additional mounting hardware. |
 | 12 | Power Duty Cycle | Reduced energy consumption lowers charging frequency and operating costs. |
 
+By using Lucidspark's "LucidAI", all sticky notes were rewritten into clean charts with the 6 categories, as well as each feature's requirement to fulfil. 
+
+
 
 ## Concept Sketches
 
