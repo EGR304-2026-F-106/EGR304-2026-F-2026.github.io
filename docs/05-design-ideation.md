@@ -259,7 +259,7 @@ By using Lucidspark's "LucidAI", all sticky notes were rewritten into clean char
 
 After the rankings and reconsideration for certain ideas were made, it was time to start piecing together 3 different concepts for the HeatSmith. Each concept holds multiple features and a brief explanation as to why it may be a good choice for future development. For additional clarification, this documentation/brainstorming was done through Lucidspark once again.
 
-
+![Sticky notes - Page 1](image/Sticky%20notes%20-%20Page%201.png)
 
 
 ## Concept Sketches
