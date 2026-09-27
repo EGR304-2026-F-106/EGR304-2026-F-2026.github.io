@@ -257,6 +257,10 @@ Once the brainstorming session concluded, multiple trends came across the 100 us
 By using Lucidspark's "LucidAI", all sticky notes were rewritten into clean charts with the 6 categories, as well as each feature's requirement to fulfil. 
 ![Sticky notes](image/Sticky%20notes%20%282%29.png)
 
+After the rankings and reconsideration for certain ideas were made, it was time to start piecing together 3 different concepts for the HeatSmith. Each concept holds multiple features and a brief explanation as to why it may be a good choice for future development. For additional clarification, this documentation/brainstorming was done through Lucidspark once again.
+
+
+
 
 ## Concept Sketches
 
