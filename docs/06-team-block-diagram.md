@@ -20,7 +20,7 @@ _Italic Text_
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
-![dead bug circuit](../image/imageGoal.JPG){style="width:350px;"}  
+<img width="1241" height="730" alt="Team -- Block Diagram drawio (4)" src="https://github.com/user-attachments/assets/745f22df-c14e-4451-aa18-0a2078e66020" />
 **Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
 
 <!-- 
