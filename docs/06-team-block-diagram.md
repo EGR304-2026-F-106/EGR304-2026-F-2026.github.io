@@ -15,12 +15,8 @@ _Italic Text_
 * Bullet Point 3
 
 ## Images
-://github.com/user-attachments/assets/745f22df-c14e-4451-aa18-0a2078e66020" />
-**Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
+<img width="1241" height="730" alt="Team -- Block Diagram drawio (4)" src="https://github.com/user-attachments/assets/396c1eb0-0e20-4472-a5ff-b33351d47a81" />
 
-<!-- 
-![showcase](../image/innovation_showcase_Sp-2025.jpg)  
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. -->
 
 
 ## Results
