@@ -15,12 +15,7 @@ _Italic Text_
 * Bullet Point 3
 
 ## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
-**Figure 2:** Here is a picture of an image linked on the internet
-
-
-<img width="1241" height="730" alt="Team -- Block Diagram drawio (4)" src="https://github.com/user-attachments/assets/745f22df-c14e-4451-aa18-0a2078e66020" />
+://github.com/user-attachments/assets/745f22df-c14e-4451-aa18-0a2078e66020" />
 **Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
 
 <!-- 
