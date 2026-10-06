@@ -17,6 +17,9 @@ _Italic Text_
 ## Images
 <img width="1241" height="730" alt="Team -- Block Diagram drawio (4)" src="https://github.com/user-attachments/assets/396c1eb0-0e20-4472-a5ff-b33351d47a81" />
 
+Individual Block Diagram - Malik
+<img width="1241" height="730" alt="Team -- Block Diagram drawio (4)" src="https://github.com/EGR304-2026-F-106/EGR304-2026-F-2026.github.io/blob/main/docs/image/malikJohnosnBoxPlotInd.svg" />
+
 
 
 ## Results
