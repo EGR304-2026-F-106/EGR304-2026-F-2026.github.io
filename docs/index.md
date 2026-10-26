@@ -17,15 +17,12 @@ Zane Reynolds<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+Team 106 "HeatSmith" and its eponymous product the HeatSmith device are both dedicated to improving their users' awareness of their environment in relation to their own health via serving as their personal weather bulletin. Given that the limited manpower at our disposal prohibits projects that are too labor intensive, we decided to go with a fairly simple proposal, aiming for quality of components rather than quantity. The two primary mechanisms involved in the operation of the HeatSmith device - the DHT sensing and OLED/Software parts - are delegated to Damio Garcia and Malik Johnson (in order) with regard to previous project experience.
 
 
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Joseph Rivera                | [josephriv28.github.io](https://josephriv28.github.io/josephriv28_EGR304_F26.github.io/) |
 | Damio Garcia                | [dmgarc62-cyber.github.io](https://dmgarc62-cyber.github.io/dmgarc62-cyber_EGR304_Fall2026304Individual-Datasheet.github.io/)|
 | Malik Johnson                | [malik-johnson.github.io](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
