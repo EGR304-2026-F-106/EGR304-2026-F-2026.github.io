@@ -4,46 +4,13 @@ title: Team Block Diagram
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+A block diagram is a systematic way to relate different parts of a system in a way that clearly delineates the purpose and structure between and within the component systems, and it can be worked on concurrently. Featured below is the block diagram for the HeatSmith device, demonstrating the general form of the two main components: the heat/humidity/light sensor(s), and the LCD screen.
 
-## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
 ## Images
 <img width="1241" height="730" alt="Team -- Block Diagram drawio (4)" src="https://github.com/user-attachments/assets/396c1eb0-0e20-4472-a5ff-b33351d47a81" />
 
-
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
 
 
 ## References
