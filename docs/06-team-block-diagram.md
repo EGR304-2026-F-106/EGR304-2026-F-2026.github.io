@@ -4,7 +4,7 @@ title: Team Block Diagram
 
 ## Introduction
 
-A block diagram is a systematic way to relate different parts of a system in a way that clearly delineates the purpose and structure between and within the component systems, and it can be worked on concurrently. Featured below is the block diagram for the HeatSmith device, demonstrating the general form of the two main components: the heat/humidity/light sensor(s), and the LCD screen.
+A block diagram is an organized way to relate different parts of a system in a way that clearly delineates the purpose and structure between and within the component systems, and it can be worked on concurrently. Featured below is the block diagram for the HeatSmith device, demonstrating the general form of the two main components: the heat/humidity/light sensor(s), and the LCD screen.
 
 
 
