@@ -25,4 +25,4 @@ Team 106 "HeatSmith" and its eponymous product the HeatSmith device are both ded
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Damio Garcia                | [dmgarc62-cyber.github.io](https://dmgarc62-cyber.github.io/dmgarc62-cyber_EGR304_Fall2026304Individual-Datasheet.github.io/)|
-| Malik Johnson                | [malik-johnson.github.io]([https://embedded-systems-design.github.io/EGR304DataSheetTemplate/](https://malik-johnson.github.io/Malik-Johnson_EGR304_F26.github.io/)) |
+| Malik Johnson                | [malik-johnson.github.io](https://malik-johnson.github.io/Malik-Johnson_EGR304_F26.github.io/) |
